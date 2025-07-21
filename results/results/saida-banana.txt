@@ -1,0 +1,130 @@
+
+Dataset: banana | Abordagem: media_aritmetic
+  Rodada 1:
+Epoch: [1] current error: 3199.422354050693
+    Acurácia: 0.7057 | Tempo de treino: 640.13 segundos
+  Rodada 2:
+Epoch: [1] current error: 3193.4647307233954
+    Acurácia: 0.7142 | Tempo de treino: 599.67 segundos
+  Rodada 3:
+Epoch: [1] current error: 3193.297002647743
+    Acurácia: 0.7170 | Tempo de treino: 794.96 segundos
+  Rodada 4:
+Epoch: [1] current error: 3201.7334419159324
+    Acurácia: 0.7075 | Tempo de treino: 679.68 segundos
+  Rodada 5:
+Epoch: [1] current error: 3197.590528306272
+    Acurácia: 0.7028 | Tempo de treino: 772.27 segundos
+  Acurácia média para banana com media_aritmetic: 0.7094
+
+
+Tempo total de execução: 3495.20 segundos
+
+Dataset: banana | Abordagem: media_geometrica
+  Rodada 1:
+Epoch: [1] current error: 3869.6231899719587
+    Acurácia: 0.6396 | Tempo de treino: 860.73 segundos
+  Rodada 2:
+Epoch: [1] current error: 3870.675706871831
+    Acurácia: 0.6670 | Tempo de treino: 713.87 segundos
+  Rodada 3:
+Epoch: [1] current error: 3866.7506506078366
+    Acurácia: 0.6472 | Tempo de treino: 721.38 segundos
+  Rodada 4:
+Epoch: [1] current error: 3867.732235594047
+    Acurácia: 0.6651 | Tempo de treino: 544.92 segundos
+  Rodada 5:
+Epoch: [1] current error: 3868.595777212881
+    Acurácia: 0.6566 | Tempo de treino: 604.79 segundos
+  Acurácia média para banana com media_geometrica: 0.6551
+
+
+Tempo total de execução: 6948.89 segundos
+
+Dataset: banana | Abordagem: media_harmonica
+  Rodada 1:
+Epoch: [1] current error: 4140.029107548172
+    Acurácia: 0.5689 | Tempo de treino: 619.97 segundos
+  Rodada 2:
+Epoch: [1] current error: 4141.313100048258
+    Acurácia: 0.5689 | Tempo de treino: 541.35 segundos
+  Rodada 3:
+Epoch: [1] current error: 4141.267228755539
+    Acurácia: 0.5764 | Tempo de treino: 370.64 segundos
+  Rodada 4:
+Epoch: [1] current error: 4138.525442856082
+    Acurácia: 0.5802 | Tempo de treino: 323.96 segundos
+  Rodada 5:
+Epoch: [1] current error: 4140.635065730597
+    Acurácia: 0.5783 | Tempo de treino: 176.09 segundos
+  Acurácia média para banana com media_harmonica: 0.5745
+
+
+Tempo total de execução: 8988.35 segundos
+
+Dataset: banana | Abordagem: media_quadratica
+  Rodada 1:
+Epoch: [1] current error: 3774.8035069183297
+    Acurácia: 0.6679 | Tempo de treino: 242.56 segundos
+  Rodada 2:
+Epoch: [1] current error: 3771.4288490169806
+    Acurácia: 0.6642 | Tempo de treino: 233.17 segundos
+  Rodada 3:
+Epoch: [1] current error: 3766.987783065371
+    Acurácia: 0.6726 | Tempo de treino: 132.57 segundos
+  Rodada 4:
+Epoch: [1] current error: 3767.6058283098946
+    Acurácia: 0.6962 | Tempo de treino: 131.61 segundos
+  Rodada 5:
+Epoch: [1] current error: 3774.559189652805
+    Acurácia: 0.6792 | Tempo de treino: 129.12 segundos
+  Acurácia média para banana com media_quadratica: 0.6760
+
+
+Tempo total de execução: 9861.26 segundos
+
+Dataset: banana | Abordagem: mediana
+  Rodada 1:
+Epoch: [1] current error: 3755.596066691568
+    Acurácia: 0.6858 | Tempo de treino: 134.28 segundos
+  Rodada 2:
+Epoch: [1] current error: 3752.335725580798
+    Acurácia: 0.6849 | Tempo de treino: 194.91 segundos
+  Rodada 3:
+Epoch: [1] current error: 3747.457000960361
+    Acurácia: 0.6925 | Tempo de treino: 129.53 segundos
+  Rodada 4:
+Epoch: [1] current error: 3748.6336838424995
+    Acurácia: 0.7132 | Tempo de treino: 214.20 segundos
+  Rodada 5:
+Epoch: [1] current error: 3755.39685874887
+    Acurácia: 0.7047 | Tempo de treino: 186.50 segundos
+  Acurácia média para banana com mediana: 0.6962
+
+
+Tempo total de execução: 10723.76 segundos
+
+Dataset: banana | Abordagem: moda
+  Rodada 1:
+    Erro na rodada 1: operands could not be broadcast together with shapes (2,) (3,) 
+  Rodada 2:
+    Erro na rodada 2: operands could not be broadcast together with shapes (2,) (3,) 
+  Rodada 3:
+    Erro na rodada 3: operands could not be broadcast together with shapes (2,) (3,) 
+  Rodada 4:
+    Erro na rodada 4: operands could not be broadcast together with shapes (2,) (3,) 
+  Rodada 5:
+    Erro na rodada 5: operands could not be broadcast together with shapes (2,) (3,) 
+  Acurácia média para banana com moda: 0.0000
+
+
+Tempo total de execução: 10725.93 segundos
+Tabela de Resultados:
+Abordagem  media_aritmetic  media_geometrica  ...   mediana  moda
+Dataset                                       ...                
+banana            0.709434          0.655094  ...  0.696226   0.0
+Média             0.709434          0.655094  ...  0.696226   0.0
+
+[2 rows x 6 columns]
+
+Resultados salvos em 'banana.xlsx'.

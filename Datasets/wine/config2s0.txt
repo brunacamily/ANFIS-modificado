@@ -1,0 +1,15 @@
+algorithm = FARC-HD
+inputData = "../datasets/wine/wine-5-3tra.dat" "../datasets/wine/wine-5-3tra.dat" "../datasets/wine/wine-5-3tst.dat" 
+outputData = "../results/wangMendel/wine/result2s0.tra" "../results/wangMendel/wine/result2s0.tst" "../results/wangMendel/wine/result2s0e0.txt" "../results/wangMendel/wine/result2s0e1.txt" 
+
+Seed = 53743421
+Number of Labels = 5
+Minimum Support = 0.05
+Minimum Confidence = 0.8
+Deph of Trees = 3
+K = 2
+Maximum Evaluations = 20000
+Population Size = 50
+Alpha = 0.02
+Bits per Gene = 30
+Tipe of Inference = 1

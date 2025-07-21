@@ -1,0 +1,130 @@
+
+Dataset: iris | Abordagem: media_aritmetic
+  Rodada 1:
+Epoch: [1] current error: 17.62829586515004
+    Acurácia: 1.0000 | Tempo de treino: 120.26 segundos
+  Rodada 2:
+Epoch: [1] current error: 17.86939800251782
+    Acurácia: 0.9667 | Tempo de treino: 157.93 segundos
+  Rodada 3:
+Epoch: [1] current error: 18.11316385577899
+    Acurácia: 1.0000 | Tempo de treino: 217.78 segundos
+  Rodada 4:
+Epoch: [1] current error: 18.53748692167956
+    Acurácia: 0.9667 | Tempo de treino: 140.70 segundos
+  Rodada 5:
+Epoch: [1] current error: 17.807792986429916
+    Acurácia: 0.9667 | Tempo de treino: 179.05 segundos
+  Acurácia média para iris com media_aritmetic: 0.9800
+
+
+Tempo total de execução: 817.72 segundos
+
+Dataset: iris | Abordagem: media_geometrica
+  Rodada 1:
+Epoch: [1] current error: 16.610084680798497
+    Acurácia: 1.0000 | Tempo de treino: 166.01 segundos
+  Rodada 2:
+Epoch: [1] current error: 16.863038846542413
+    Acurácia: 0.9667 | Tempo de treino: 135.62 segundos
+  Rodada 3:
+Epoch: [1] current error: 16.992610282281888
+    Acurácia: 1.0000 | Tempo de treino: 146.86 segundos
+  Rodada 4:
+Epoch: [1] current error: 17.282015232241058
+    Acurácia: 0.9667 | Tempo de treino: 179.99 segundos
+  Rodada 5:
+Epoch: [1] current error: 16.632384153608456
+    Acurácia: 1.0000 | Tempo de treino: 208.08 segundos
+  Acurácia média para iris com media_geometrica: 0.9867
+
+
+Tempo total de execução: 1656.43 segundos
+
+Dataset: iris | Abordagem: media_harmonica
+  Rodada 1:
+Epoch: [1] current error: 21.866616235997558
+    Acurácia: 1.0000 | Tempo de treino: 200.31 segundos
+  Rodada 2:
+Epoch: [1] current error: 21.899829110379205
+    Acurácia: 0.9667 | Tempo de treino: 217.92 segundos
+  Rodada 3:
+Epoch: [1] current error: 22.143681564878936
+    Acurácia: 1.0000 | Tempo de treino: 187.33 segundos
+  Rodada 4:
+Epoch: [1] current error: 22.737631281077775
+    Acurácia: 0.9667 | Tempo de treino: 157.40 segundos
+  Rodada 5:
+Epoch: [1] current error: 22.110567822687337
+    Acurácia: 0.9333 | Tempo de treino: 159.58 segundos
+  Acurácia média para iris com media_harmonica: 0.9733
+
+
+Tempo total de execução: 2581.04 segundos
+
+Dataset: iris | Abordagem: media_quadratica
+  Rodada 1:
+Epoch: [1] current error: 17.69643081227761
+    Acurácia: 1.0000 | Tempo de treino: 181.43 segundos
+  Rodada 2:
+Epoch: [1] current error: 17.853210797465813
+    Acurácia: 0.9667 | Tempo de treino: 184.31 segundos
+  Rodada 3:
+Epoch: [1] current error: 18.010826996744136
+    Acurácia: 1.0000 | Tempo de treino: 177.14 segundos
+  Rodada 4:
+Epoch: [1] current error: 18.310780124771032
+    Acurácia: 0.9667 | Tempo de treino: 180.62 segundos
+  Rodada 5:
+Epoch: [1] current error: 17.694742460855345
+    Acurácia: 1.0000 | Tempo de treino: 167.71 segundos
+  Acurácia média para iris com media_quadratica: 0.9867
+
+
+Tempo total de execução: 3473.91 segundos
+
+Dataset: iris | Abordagem: mediana
+  Rodada 1:
+Epoch: [1] current error: 17.072960549395916
+    Acurácia: 1.0000 | Tempo de treino: 175.85 segundos
+  Rodada 2:
+Epoch: [1] current error: 17.405948320045322
+    Acurácia: 0.9667 | Tempo de treino: 186.36 segundos
+  Rodada 3:
+Epoch: [1] current error: 17.71272762145336
+    Acurácia: 1.0000 | Tempo de treino: 242.37 segundos
+  Rodada 4:
+Epoch: [1] current error: 17.90541426299781
+    Acurácia: 0.9667 | Tempo de treino: 207.43 segundos
+  Rodada 5:
+Epoch: [1] current error: 17.315700350962366
+    Acurácia: 1.0000 | Tempo de treino: 186.17 segundos
+  Acurácia média para iris com mediana: 0.9867
+
+
+Tempo total de execução: 4473.96 segundos
+
+Dataset: iris | Abordagem: moda
+  Rodada 1:
+    Erro na rodada 1: operands could not be broadcast together with shapes (4,) (5,) 
+  Rodada 2:
+    Erro na rodada 2: operands could not be broadcast together with shapes (4,) (5,) 
+  Rodada 3:
+    Erro na rodada 3: operands could not be broadcast together with shapes (4,) (5,) 
+  Rodada 4:
+    Erro na rodada 4: operands could not be broadcast together with shapes (4,) (5,) 
+  Rodada 5:
+    Erro na rodada 5: operands could not be broadcast together with shapes (4,) (5,) 
+  Acurácia média para iris com moda: 0.0000
+
+
+Tempo total de execução: 4474.71 segundos
+Tabela de Resultados:
+Abordagem  media_aritmetic  media_geometrica  ...   mediana  moda
+Dataset                                       ...                
+iris                  0.98          0.986667  ...  0.986667   0.0
+Média                 0.98          0.986667  ...  0.986667   0.0
+
+[2 rows x 6 columns]
+
+Resultados salvos em 'iris.xlsx'.

@@ -1,0 +1,130 @@
+
+Dataset: titanic | Abordagem: media_aritmetic
+  Rodada 1:
+Epoch: [1] current error: 1094.1522477809579
+    Acurácia: 0.7868 | Tempo de treino: 756.99 segundos
+  Rodada 2:
+Epoch: [1] current error: 1090.2349304669583
+    Acurácia: 0.7932 | Tempo de treino: 701.70 segundos
+  Rodada 3:
+Epoch: [1] current error: 1085.9456108051502
+    Acurácia: 0.8114 | Tempo de treino: 830.01 segundos
+  Rodada 4:
+Epoch: [1] current error: 1091.4127703565352
+    Acurácia: 0.7864 | Tempo de treino: 760.06 segundos
+  Rodada 5:
+Epoch: [1] current error: 1092.5925851083866
+    Acurácia: 0.7818 | Tempo de treino: 796.72 segundos
+  Acurácia média para titanic com media_aritmetic: 0.7919
+
+
+Tempo total de execução: 3851.41 segundos
+
+Dataset: titanic | Abordagem: media_geometrica
+  Rodada 1:
+Epoch: [1] current error: 1114.066940912176
+    Acurácia: 0.7619 | Tempo de treino: 818.96 segundos
+  Rodada 2:
+Epoch: [1] current error: 1109.878956521145
+    Acurácia: 0.7841 | Tempo de treino: 795.73 segundos
+  Rodada 3:
+Epoch: [1] current error: 1104.9549692122514
+    Acurácia: 0.8091 | Tempo de treino: 627.02 segundos
+  Rodada 4:
+Epoch: [1] current error: 1109.9795879281262
+    Acurácia: 0.7864 | Tempo de treino: 537.21 segundos
+  Rodada 5:
+Epoch: [1] current error: 1110.9848925975145
+    Acurácia: 0.7818 | Tempo de treino: 620.18 segundos
+  Acurácia média para titanic com media_geometrica: 0.7847
+
+
+Tempo total de execução: 7257.27 segundos
+
+Dataset: titanic | Abordagem: media_harmonica
+  Rodada 1:
+Epoch: [1] current error: 1149.1596919838512
+    Acurácia: 0.7574 | Tempo de treino: 615.20 segundos
+  Rodada 2:
+Epoch: [1] current error: 1144.798933130353
+    Acurácia: 0.7773 | Tempo de treino: 445.53 segundos
+  Rodada 3:
+Epoch: [1] current error: 1141.0144342669757
+    Acurácia: 0.8045 | Tempo de treino: 293.61 segundos
+  Rodada 4:
+Epoch: [1] current error: 1144.1538927192596
+    Acurácia: 0.7864 | Tempo de treino: 288.39 segundos
+  Rodada 5:
+Epoch: [1] current error: 1146.0820486676744
+    Acurácia: 0.7659 | Tempo de treino: 152.22 segundos
+  Acurácia média para titanic com media_harmonica: 0.7783
+
+
+Tempo total de execução: 9055.41 segundos
+
+Dataset: titanic | Abordagem: media_quadratica
+  Rodada 1:
+Epoch: [1] current error: 1119.8020239502184
+    Acurácia: 0.7528 | Tempo de treino: 356.87 segundos
+  Rodada 2:
+Epoch: [1] current error: 1114.5921363562484
+    Acurácia: 0.7795 | Tempo de treino: 154.26 segundos
+  Rodada 3:
+Epoch: [1] current error: 1110.8154804480268
+    Acurácia: 0.8091 | Tempo de treino: 152.22 segundos
+  Rodada 4:
+Epoch: [1] current error: 1114.9387263050469
+    Acurácia: 0.7864 | Tempo de treino: 152.57 segundos
+  Rodada 5:
+Epoch: [1] current error: 1115.7299423715913
+    Acurácia: 0.7773 | Tempo de treino: 186.91 segundos
+  Acurácia média para titanic com media_quadratica: 0.7810
+
+
+Tempo total de execução: 10059.35 segundos
+
+Dataset: titanic | Abordagem: mediana
+  Rodada 1:
+Epoch: [1] current error: 1109.6569337743663
+    Acurácia: 0.7619 | Tempo de treino: 182.51 segundos
+  Rodada 2:
+Epoch: [1] current error: 1105.764492820987
+    Acurácia: 0.7841 | Tempo de treino: 158.54 segundos
+  Rodada 3:
+Epoch: [1] current error: 1100.9873688585242
+    Acurácia: 0.8091 | Tempo de treino: 288.62 segundos
+  Rodada 4:
+Epoch: [1] current error: 1106.0902000838291
+    Acurácia: 0.7864 | Tempo de treino: 153.46 segundos
+  Rodada 5:
+Epoch: [1] current error: 1107.528763144297
+    Acurácia: 0.7818 | Tempo de treino: 217.71 segundos
+  Acurácia média para titanic com mediana: 0.7847
+
+
+Tempo total de execução: 11061.45 segundos
+
+Dataset: titanic | Abordagem: moda
+  Rodada 1:
+    Erro na rodada 1: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (8,) + inhomogeneous part.
+  Rodada 2:
+    Erro na rodada 2: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (8,) + inhomogeneous part.
+  Rodada 3:
+    Erro na rodada 3: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (8,) + inhomogeneous part.
+  Rodada 4:
+    Erro na rodada 4: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (8,) + inhomogeneous part.
+  Rodada 5:
+    Erro na rodada 5: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (8,) + inhomogeneous part.
+  Acurácia média para titanic com moda: 0.0000
+
+
+Tempo total de execução: 11062.58 segundos
+Tabela de Resultados:
+Abordagem  media_aritmetic  media_geometrica  ...   mediana  moda
+Dataset                                       ...                
+titanic           0.791915          0.784654  ...  0.784654   0.0
+Média             0.791915          0.784654  ...  0.784654   0.0
+
+[2 rows x 6 columns]
+
+Resultados salvos em 'titanic.xlsx'.

@@ -1,0 +1,130 @@
+
+Dataset: bupa | Abordagem: media_aritmetic
+  Rodada 1:
+Epoch: [1] current error: 221.36538645743482
+    Acurácia: 0.6812 | Tempo de treino: 3657.83 segundos
+  Rodada 2:
+Epoch: [1] current error: 222.04045890442822
+    Acurácia: 0.6667 | Tempo de treino: 3197.73 segundos
+  Rodada 3:
+Epoch: [1] current error: 222.05004520965977
+    Acurácia: 0.7246 | Tempo de treino: 2240.90 segundos
+  Rodada 4:
+Epoch: [1] current error: 219.7898263730029
+    Acurácia: 0.8261 | Tempo de treino: 999.74 segundos
+  Rodada 5:
+Epoch: [1] current error: 220.45402756080836
+    Acurácia: 0.7391 | Tempo de treino: 890.00 segundos
+  Acurácia média para bupa com media_aritmetic: 0.7275
+
+
+Tempo total de execução: 10987.29 segundos
+
+Dataset: bupa | Abordagem: media_geometrica
+  Rodada 1:
+Epoch: [1] current error: 201.03472550423825
+    Acurácia: 0.7101 | Tempo de treino: 856.96 segundos
+  Rodada 2:
+Epoch: [1] current error: 201.03502440728215
+    Acurácia: 0.6957 | Tempo de treino: 743.48 segundos
+  Rodada 3:
+Epoch: [1] current error: 201.7256971274108
+    Acurácia: 0.7391 | Tempo de treino: 743.17 segundos
+  Rodada 4:
+Epoch: [1] current error: 198.3742698237363
+    Acurácia: 0.8696 | Tempo de treino: 986.09 segundos
+  Rodada 5:
+Epoch: [1] current error: 199.5866111204386
+    Acurácia: 0.7681 | Tempo de treino: 760.79 segundos
+  Acurácia média para bupa com media_geometrica: 0.7565
+
+
+Tempo total de execução: 15078.30 segundos
+
+Dataset: bupa | Abordagem: media_harmonica
+  Rodada 1:
+Epoch: [1] current error: 231.27292007157916
+    Acurácia: 0.6812 | Tempo de treino: 755.29 segundos
+  Rodada 2:
+Epoch: [1] current error: 232.20829002851963
+    Acurácia: 0.6087 | Tempo de treino: 852.70 segundos
+  Rodada 3:
+Epoch: [1] current error: 231.14539577666733
+    Acurácia: 0.7246 | Tempo de treino: 752.47 segundos
+  Rodada 4:
+Epoch: [1] current error: 229.97451540774557
+    Acurácia: 0.8116 | Tempo de treino: 887.40 segundos
+  Rodada 5:
+Epoch: [1] current error: 230.54441115272107
+    Acurácia: 0.7246 | Tempo de treino: 842.42 segundos
+  Acurácia média para bupa com media_harmonica: 0.7101
+
+
+Tempo total de execução: 19169.06 segundos
+
+Dataset: bupa | Abordagem: media_quadratica
+  Rodada 1:
+Epoch: [1] current error: 212.31960360510982
+    Acurácia: 0.7391 | Tempo de treino: 744.85 segundos
+  Rodada 2:
+Epoch: [1] current error: 213.06780618923887
+    Acurácia: 0.7101 | Tempo de treino: 1126.33 segundos
+  Rodada 3:
+Epoch: [1] current error: 213.51819685175383
+    Acurácia: 0.7536 | Tempo de treino: 1900.57 segundos
+  Rodada 4:
+Epoch: [1] current error: 210.92019315121627
+    Acurácia: 0.8406 | Tempo de treino: 1384.73 segundos
+  Rodada 5:
+Epoch: [1] current error: 211.56995141062234
+    Acurácia: 0.7246 | Tempo de treino: 878.60 segundos
+  Acurácia média para bupa com media_quadratica: 0.7536
+
+
+Tempo total de execução: 25205.08 segundos
+
+Dataset: bupa | Abordagem: mediana
+  Rodada 1:
+Epoch: [1] current error: 215.1194480234306
+    Acurácia: 0.7101 | Tempo de treino: 1406.28 segundos
+  Rodada 2:
+Epoch: [1] current error: 215.38645684793624
+    Acurácia: 0.6377 | Tempo de treino: 1415.22 segundos
+  Rodada 3:
+Epoch: [1] current error: 215.613662322915
+    Acurácia: 0.7246 | Tempo de treino: 928.19 segundos
+  Rodada 4:
+Epoch: [1] current error: 212.934837472021
+    Acurácia: 0.8696 | Tempo de treino: 853.31 segundos
+  Rodada 5:
+Epoch: [1] current error: 213.8451306391225
+    Acurácia: 0.7246 | Tempo de treino: 738.33 segundos
+  Acurácia média para bupa com mediana: 0.7333
+
+
+Tempo total de execução: 30547.00 segundos
+
+Dataset: bupa | Abordagem: moda
+  Rodada 1:
+    Erro na rodada 1: operands could not be broadcast together with shapes (6,) (7,) 
+  Rodada 2:
+    Erro na rodada 2: operands could not be broadcast together with shapes (6,) (7,) 
+  Rodada 3:
+    Erro na rodada 3: operands could not be broadcast together with shapes (6,) (7,) 
+  Rodada 4:
+    Erro na rodada 4: operands could not be broadcast together with shapes (6,) (7,) 
+  Rodada 5:
+    Erro na rodada 5: operands could not be broadcast together with shapes (6,) (7,) 
+  Acurácia média para bupa com moda: 0.0000
+
+
+Tempo total de execução: 30547.53 segundos
+Tabela de Resultados:
+Abordagem  media_aritmetic  media_geometrica  ...   mediana  moda
+Dataset                                       ...                
+bupa              0.727536          0.756522  ...  0.733333   0.0
+Média             0.727536          0.756522  ...  0.733333   0.0
+
+[2 rows x 6 columns]
+
+Resultados salvos em 'bupa.xlsx'.

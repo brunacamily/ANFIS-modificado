@@ -1,0 +1,130 @@
+
+Dataset: haberman | Abordagem: media_aritmetic
+  Rodada 1:
+Epoch: [1] current error: 158.91139376203057
+    Acurácia: 0.8226 | Tempo de treino: 63.27 segundos
+  Rodada 2:
+Epoch: [1] current error: 160.5513177389505
+    Acurácia: 0.7541 | Tempo de treino: 106.52 segundos
+  Rodada 3:
+Epoch: [1] current error: 160.3175777207778
+    Acurácia: 0.7049 | Tempo de treino: 115.07 segundos
+  Rodada 4:
+Epoch: [1] current error: 158.31247179341972
+    Acurácia: 0.8361 | Tempo de treino: 136.67 segundos
+  Rodada 5:
+Epoch: [1] current error: 159.7372167642925
+    Acurácia: 0.7541 | Tempo de treino: 122.30 segundos
+  Acurácia média para haberman com media_aritmetic: 0.7744
+
+
+Tempo total de execução: 545.05 segundos
+
+Dataset: haberman | Abordagem: media_geometrica
+  Rodada 1:
+Epoch: [1] current error: 162.75437102235003
+    Acurácia: 0.7903 | Tempo de treino: 88.60 segundos
+  Rodada 2:
+Epoch: [1] current error: 164.2356268830678
+    Acurácia: 0.7213 | Tempo de treino: 111.04 segundos
+  Rodada 3:
+Epoch: [1] current error: 163.88557635352842
+    Acurácia: 0.6885 | Tempo de treino: 138.05 segundos
+  Rodada 4:
+Epoch: [1] current error: 161.66769326381137
+    Acurácia: 0.8525 | Tempo de treino: 99.12 segundos
+  Rodada 5:
+Epoch: [1] current error: 163.00148848242986
+    Acurácia: 0.7377 | Tempo de treino: 85.14 segundos
+  Acurácia média para haberman com media_geometrica: 0.7581
+
+
+Tempo total de execução: 1068.30 segundos
+
+Dataset: haberman | Abordagem: media_harmonica
+  Rodada 1:
+Epoch: [1] current error: 173.6065993168347
+    Acurácia: 0.7419 | Tempo de treino: 86.50 segundos
+  Rodada 2:
+Epoch: [1] current error: 173.84803705032974
+    Acurácia: 0.7049 | Tempo de treino: 95.17 segundos
+  Rodada 3:
+Epoch: [1] current error: 173.68104924495714
+    Acurácia: 0.7213 | Tempo de treino: 101.48 segundos
+  Rodada 4:
+Epoch: [1] current error: 172.14576332610235
+    Acurácia: 0.7705 | Tempo de treino: 137.45 segundos
+  Rodada 5:
+Epoch: [1] current error: 173.20913528927224
+    Acurácia: 0.7869 | Tempo de treino: 141.23 segundos
+  Acurácia média para haberman com media_harmonica: 0.7451
+
+
+Tempo total de execução: 1632.75 segundos
+
+Dataset: haberman | Abordagem: media_quadratica
+  Rodada 1:
+Epoch: [1] current error: 161.51967530719693
+    Acurácia: 0.7742 | Tempo de treino: 143.91 segundos
+  Rodada 2:
+Epoch: [1] current error: 164.24306564419646
+    Acurácia: 0.7213 | Tempo de treino: 129.97 segundos
+  Rodada 3:
+Epoch: [1] current error: 163.12508072456063
+    Acurácia: 0.7377 | Tempo de treino: 142.08 segundos
+  Rodada 4:
+Epoch: [1] current error: 160.720032078264
+    Acurácia: 0.8525 | Tempo de treino: 129.30 segundos
+  Rodada 5:
+Epoch: [1] current error: 161.8697190688615
+    Acurácia: 0.7869 | Tempo de treino: 102.83 segundos
+  Acurácia média para haberman com media_quadratica: 0.7745
+
+
+Tempo total de execução: 2282.54 segundos
+
+Dataset: haberman | Abordagem: mediana
+  Rodada 1:
+Epoch: [1] current error: 162.39268794701465
+    Acurácia: 0.7903 | Tempo de treino: 114.44 segundos
+  Rodada 2:
+Epoch: [1] current error: 165.19586573300558
+    Acurácia: 0.7377 | Tempo de treino: 99.24 segundos
+  Rodada 3:
+Epoch: [1] current error: 164.3353453474965
+    Acurácia: 0.7213 | Tempo de treino: 112.25 segundos
+  Rodada 4:
+Epoch: [1] current error: 161.79171934906742
+    Acurácia: 0.8033 | Tempo de treino: 120.29 segundos
+  Rodada 5:
+Epoch: [1] current error: 163.2574332164757
+    Acurácia: 0.7541 | Tempo de treino: 124.30 segundos
+  Acurácia média para haberman com mediana: 0.7613
+
+
+Tempo total de execução: 2854.70 segundos
+
+Dataset: haberman | Abordagem: moda
+  Rodada 1:
+    Erro na rodada 1: operands could not be broadcast together with shapes (3,) (4,) 
+  Rodada 2:
+    Erro na rodada 2: operands could not be broadcast together with shapes (3,) (4,) 
+  Rodada 3:
+    Erro na rodada 3: operands could not be broadcast together with shapes (3,) (4,) 
+  Rodada 4:
+    Erro na rodada 4: operands could not be broadcast together with shapes (3,) (4,) 
+  Rodada 5:
+    Erro na rodada 5: operands could not be broadcast together with shapes (3,) (4,) 
+  Acurácia média para haberman com moda: 0.0000
+
+
+Tempo total de execução: 2855.50 segundos
+Tabela de Resultados:
+Abordagem  media_aritmetic  media_geometrica  ...   mediana  moda
+Dataset                                       ...                
+haberman          0.774352          0.758065  ...  0.761343   0.0
+Média             0.774352          0.758065  ...  0.761343   0.0
+
+[2 rows x 6 columns]
+
+Resultados salvos em 'haberman.xlsx'.

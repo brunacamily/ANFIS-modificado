@@ -1,0 +1,130 @@
+
+Dataset: phoneme | Abordagem: media_aritmetic
+  Rodada 1:
+Epoch: [1] current error: 2466.693964723021
+    Acurácia: 0.7780 | Tempo de treino: 11299.33 segundos
+  Rodada 2:
+Epoch: [1] current error: 2475.062890247085
+    Acurácia: 0.7734 | Tempo de treino: 4593.16 segundos
+  Rodada 3:
+Epoch: [1] current error: 2469.862462176871
+    Acurácia: 0.7761 | Tempo de treino: 4455.52 segundos
+  Rodada 4:
+Epoch: [1] current error: 2463.9818233955657
+    Acurácia: 0.7715 | Tempo de treino: 8090.10 segundos
+  Rodada 5:
+Epoch: [1] current error: 2470.4202179397744
+    Acurácia: 0.7769 | Tempo de treino: 4435.89 segundos
+  Acurácia média para phoneme com media_aritmetic: 0.7752
+
+
+Tempo total de execução: 32878.31 segundos
+
+Dataset: phoneme | Abordagem: media_geometrica
+  Rodada 1:
+Epoch: [1] current error: 2384.5532821589336
+    Acurácia: 0.7854 | Tempo de treino: 4130.51 segundos
+  Rodada 2:
+Epoch: [1] current error: 2394.402856210032
+    Acurácia: 0.7669 | Tempo de treino: 6328.68 segundos
+  Rodada 3:
+Epoch: [1] current error: 2386.1592636793807
+    Acurácia: 0.7771 | Tempo de treino: 7990.64 segundos
+  Rodada 4:
+Epoch: [1] current error: 2381.85323559262
+    Acurácia: 0.7817 | Tempo de treino: 4160.82 segundos
+  Rodada 5:
+Epoch: [1] current error: 2386.8886161958694
+    Acurácia: 0.7843 | Tempo de treino: 5816.40 segundos
+  Acurácia média para phoneme com media_geometrica: 0.7791
+
+
+Tempo total de execução: 61312.37 segundos
+
+Dataset: phoneme | Abordagem: media_harmonica
+  Rodada 1:
+Epoch: [1] current error: 2669.848667828379
+    Acurácia: 0.7576 | Tempo de treino: 4725.05 segundos
+  Rodada 2:
+Epoch: [1] current error: 2674.2948476572
+    Acurácia: 0.7484 | Tempo de treino: 5335.82 segundos
+  Rodada 3:
+Epoch: [1] current error: 2670.896594353336
+    Acurácia: 0.7567 | Tempo de treino: 5915.55 segundos
+  Rodada 4:
+Epoch: [1] current error: 2660.033301788379
+    Acurácia: 0.7613 | Tempo de treino: 3904.75 segundos
+  Rodada 5:
+Epoch: [1] current error: 2668.250718384328
+    Acurácia: 0.7500 | Tempo de treino: 7435.25 segundos
+  Acurácia média para phoneme com media_harmonica: 0.7548
+
+
+Tempo total de execução: 88632.98 segundos
+
+Dataset: phoneme | Abordagem: media_quadratica
+  Rodada 1:
+Epoch: [1] current error: 2453.078223295073
+    Acurácia: 0.7798 | Tempo de treino: 5784.05 segundos
+  Rodada 2:
+Epoch: [1] current error: 2460.190477670005
+    Acurácia: 0.7771 | Tempo de treino: 3842.91 segundos
+  Rodada 3:
+Epoch: [1] current error: 2454.8835811768517
+    Acurácia: 0.7798 | Tempo de treino: 3869.05 segundos
+  Rodada 4:
+Epoch: [1] current error: 2450.011646867059
+    Acurácia: 0.7789 | Tempo de treino: 7634.82 segundos
+  Rodada 5:
+Epoch: [1] current error: 2456.5896311936067
+    Acurácia: 0.7778 | Tempo de treino: 3762.68 segundos
+  Acurácia média para phoneme com media_quadratica: 0.7787
+
+
+Tempo total de execução: 113533.17 segundos
+
+Dataset: phoneme | Abordagem: mediana
+  Rodada 1:
+Epoch: [1] current error: 2110.1597048526837
+    Acurácia: 0.8261 | Tempo de treino: 3701.70 segundos
+  Rodada 2:
+Epoch: [1] current error: 2112.4675416411546
+    Acurácia: 0.8289 | Tempo de treino: 6655.30 segundos
+  Rodada 3:
+Epoch: [1] current error: 2105.141863924841
+    Acurácia: 0.8390 | Tempo de treino: 5374.49 segundos
+  Rodada 4:
+Epoch: [1] current error: 2103.0880172648835
+    Acurácia: 0.8344 | Tempo de treino: 3693.64 segundos
+  Rodada 5:
+Epoch: [1] current error: 2107.222921338203
+    Acurácia: 0.8343 | Tempo de treino: 5305.84 segundos
+  Acurácia média para phoneme com mediana: 0.8325
+
+
+Tempo total de execução: 138268.89 segundos
+
+Dataset: phoneme | Abordagem: moda
+  Rodada 1:
+    Erro na rodada 1: operands could not be broadcast together with shapes (5,) (6,) 
+  Rodada 2:
+    Erro na rodada 2: operands could not be broadcast together with shapes (5,) (6,) 
+  Rodada 3:
+    Erro na rodada 3: operands could not be broadcast together with shapes (5,) (6,) 
+  Rodada 4:
+    Erro na rodada 4: operands could not be broadcast together with shapes (5,) (6,) 
+  Rodada 5:
+    Erro na rodada 5: operands could not be broadcast together with shapes (5,) (6,) 
+  Acurácia média para phoneme com moda: 0.0000
+
+
+Tempo total de execução: 138272.40 segundos
+Tabela de Resultados:
+Abordagem  media_aritmetic  media_geometrica  ...   mediana  moda
+Dataset                                       ...                
+phoneme           0.775167          0.779054  ...  0.832532   0.0
+Média             0.775167          0.779054  ...  0.832532   0.0
+
+[2 rows x 6 columns]
+
+Resultados salvos em 'phoneme.xlsx'.

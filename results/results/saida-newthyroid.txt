@@ -1,0 +1,130 @@
+
+Dataset: newthyroid | Abordagem: media_aritmetic
+  Rodada 1:
+Epoch: [1] current error: 141.81976329014955
+    Acurácia: 0.8140 | Tempo de treino: 823.95 segundos
+  Rodada 2:
+Epoch: [1] current error: 139.7269888456491
+    Acurácia: 0.8372 | Tempo de treino: 746.15 segundos
+  Rodada 3:
+Epoch: [1] current error: 140.02558994262972
+    Acurácia: 0.8372 | Tempo de treino: 853.94 segundos
+  Rodada 4:
+Epoch: [1] current error: 136.60776538674133
+    Acurácia: 0.8372 | Tempo de treino: 730.39 segundos
+  Rodada 5:
+Epoch: [1] current error: 139.99818542031426
+    Acurácia: 0.8372 | Tempo de treino: 799.79 segundos
+  Acurácia média para newthyroid com media_aritmetic: 0.8326
+
+
+Tempo total de execução: 3956.56 segundos
+
+Dataset: newthyroid | Abordagem: media_geometrica
+  Rodada 1:
+Epoch: [1] current error: 112.12834935550077
+    Acurácia: 0.8140 | Tempo de treino: 784.70 segundos
+  Rodada 2:
+Epoch: [1] current error: 110.8681199686757
+    Acurácia: 0.8372 | Tempo de treino: 662.46 segundos
+  Rodada 3:
+Epoch: [1] current error: 111.29365401291217
+    Acurácia: 0.8605 | Tempo de treino: 608.30 segundos
+  Rodada 4:
+Epoch: [1] current error: 107.92390653863332
+    Acurácia: 0.8837 | Tempo de treino: 612.22 segundos
+  Rodada 5:
+Epoch: [1] current error: 110.85205973033422
+    Acurácia: 0.8372 | Tempo de treino: 669.84 segundos
+  Acurácia média para newthyroid com media_geometrica: 0.8465
+
+
+Tempo total de execução: 7295.14 segundos
+
+Dataset: newthyroid | Abordagem: media_harmonica
+  Rodada 1:
+Epoch: [1] current error: 191.62560598894598
+    Acurácia: 0.7674 | Tempo de treino: 723.61 segundos
+  Rodada 2:
+Epoch: [1] current error: 189.68667973967558
+    Acurácia: 0.8372 | Tempo de treino: 484.89 segundos
+  Rodada 3:
+Epoch: [1] current error: 191.55718213902108
+    Acurácia: 0.8372 | Tempo de treino: 394.23 segundos
+  Rodada 4:
+Epoch: [1] current error: 187.65870000552192
+    Acurácia: 0.8372 | Tempo de treino: 162.86 segundos
+  Rodada 5:
+Epoch: [1] current error: 191.40891397840645
+    Acurácia: 0.7907 | Tempo de treino: 363.26 segundos
+  Acurácia média para newthyroid com media_harmonica: 0.8140
+
+
+Tempo total de execução: 9425.30 segundos
+
+Dataset: newthyroid | Abordagem: media_quadratica
+  Rodada 1:
+Epoch: [1] current error: 124.58251509250772
+    Acurácia: 0.8140 | Tempo de treino: 147.16 segundos
+  Rodada 2:
+Epoch: [1] current error: 122.55287626935939
+    Acurácia: 0.8605 | Tempo de treino: 152.07 segundos
+  Rodada 3:
+Epoch: [1] current error: 122.55972191122325
+    Acurácia: 0.8605 | Tempo de treino: 150.42 segundos
+  Rodada 4:
+Epoch: [1] current error: 120.56731662753718
+    Acurácia: 0.9070 | Tempo de treino: 177.82 segundos
+  Rodada 5:
+Epoch: [1] current error: 122.58542044824722
+    Acurácia: 0.8372 | Tempo de treino: 172.96 segundos
+  Acurácia média para newthyroid com media_quadratica: 0.8558
+
+
+Tempo total de execução: 10226.10 segundos
+
+Dataset: newthyroid | Abordagem: mediana
+  Rodada 1:
+Epoch: [1] current error: 97.86237840979275
+    Acurácia: 0.8140 | Tempo de treino: 142.27 segundos
+  Rodada 2:
+Epoch: [1] current error: 96.53257378880551
+    Acurácia: 0.8837 | Tempo de treino: 264.97 segundos
+  Rodada 3:
+Epoch: [1] current error: 96.30017033572187
+    Acurácia: 0.9070 | Tempo de treino: 145.13 segundos
+  Rodada 4:
+Epoch: [1] current error: 92.73024794791876
+    Acurácia: 0.9302 | Tempo de treino: 174.04 segundos
+  Rodada 5:
+Epoch: [1] current error: 97.70405320999151
+    Acurácia: 0.8837 | Tempo de treino: 168.33 segundos
+  Acurácia média para newthyroid com mediana: 0.8837
+
+
+Tempo total de execução: 11121.19 segundos
+
+Dataset: newthyroid | Abordagem: moda
+  Rodada 1:
+    Erro na rodada 1: operands could not be broadcast together with shapes (5,) (6,) 
+  Rodada 2:
+    Erro na rodada 2: operands could not be broadcast together with shapes (5,) (6,) 
+  Rodada 3:
+    Erro na rodada 3: operands could not be broadcast together with shapes (5,) (6,) 
+  Rodada 4:
+    Erro na rodada 4: operands could not be broadcast together with shapes (5,) (6,) 
+  Rodada 5:
+    Erro na rodada 5: operands could not be broadcast together with shapes (5,) (6,) 
+  Acurácia média para newthyroid com moda: 0.0000
+
+
+Tempo total de execução: 11121.51 segundos
+Tabela de Resultados:
+Abordagem   media_aritmetic  media_geometrica  ...   mediana  moda
+Dataset                                        ...                
+newthyroid         0.832558          0.846512  ...  0.883721   0.0
+Média              0.832558          0.846512  ...  0.883721   0.0
+
+[2 rows x 6 columns]
+
+Resultados salvos em 'newthyroid.xlsx'.

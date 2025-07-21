@@ -1,0 +1,130 @@
+
+Dataset: ecoli | Abordagem: media_aritmetic
+  Rodada 1:
+Epoch: [1] current error: 3160.0332278778496
+    Acurácia: 0.2794 | Tempo de treino: 9074.94 segundos
+  Rodada 2:
+Epoch: [1] current error: 3114.8352470715154
+    Acurácia: 0.4627 | Tempo de treino: 2542.00 segundos
+  Rodada 3:
+Epoch: [1] current error: 3189.910253539163
+    Acurácia: 0.2985 | Tempo de treino: 2378.80 segundos
+  Rodada 4:
+Epoch: [1] current error: 3121.9155112276353
+    Acurácia: 0.2687 | Tempo de treino: 2428.08 segundos
+  Rodada 5:
+Epoch: [1] current error: 3201.219883414182
+    Acurácia: 0.3134 | Tempo de treino: 2450.54 segundos
+  Acurácia média para ecoli com media_aritmetic: 0.3245
+
+
+Tempo total de execução: 18875.09 segundos
+
+Dataset: ecoli | Abordagem: media_geometrica
+  Rodada 1:
+Epoch: [1] current error: 2664.2091194023033
+    Acurácia: 0.3676 | Tempo de treino: 3495.17 segundos
+  Rodada 2:
+Epoch: [1] current error: 2637.6093477437294
+    Acurácia: 0.4776 | Tempo de treino: 3596.09 segundos
+  Rodada 3:
+Epoch: [1] current error: 2684.389380472184
+    Acurácia: 0.3881 | Tempo de treino: 3485.49 segundos
+  Rodada 4:
+Epoch: [1] current error: 2610.562531806721
+    Acurácia: 0.3881 | Tempo de treino: 2139.11 segundos
+  Rodada 5:
+Epoch: [1] current error: 2686.20542304417
+    Acurácia: 0.4328 | Tempo de treino: 2361.90 segundos
+  Acurácia média para ecoli com media_geometrica: 0.4108
+
+
+Tempo total de execução: 33954.03 segundos
+
+Dataset: ecoli | Abordagem: media_harmonica
+  Rodada 1:
+Epoch: [1] current error: 3299.515923580749
+    Acurácia: 0.2794 | Tempo de treino: 2292.16 segundos
+  Rodada 2:
+Epoch: [1] current error: 3239.4834628570916
+    Acurácia: 0.4179 | Tempo de treino: 3596.86 segundos
+  Rodada 3:
+Epoch: [1] current error: 3307.88613589295
+    Acurácia: 0.2687 | Tempo de treino: 2812.21 segundos
+  Rodada 4:
+Epoch: [1] current error: 3250.1648471255758
+    Acurácia: 0.2388 | Tempo de treino: 4914.13 segundos
+  Rodada 5:
+Epoch: [1] current error: 3321.89679917554
+    Acurácia: 0.2985 | Tempo de treino: 3217.71 segundos
+  Acurácia média para ecoli com media_harmonica: 0.3007
+
+
+Tempo total de execução: 50788.16 segundos
+
+Dataset: ecoli | Abordagem: media_quadratica
+  Rodada 1:
+Epoch: [1] current error: 2919.553672634481
+    Acurácia: 0.4118 | Tempo de treino: 2252.95 segundos
+  Rodada 2:
+Epoch: [1] current error: 2878.6425206280464
+    Acurácia: 0.4925 | Tempo de treino: 2264.09 segundos
+  Rodada 3:
+Epoch: [1] current error: 2943.34835285962
+    Acurácia: 0.3433 | Tempo de treino: 4000.80 segundos
+  Rodada 4:
+Epoch: [1] current error: 2872.1841900571144
+    Acurácia: 0.3134 | Tempo de treino: 2166.71 segundos
+  Rodada 5:
+Epoch: [1] current error: 2955.437514330309
+    Acurácia: 0.3582 | Tempo de treino: 2337.34 segundos
+  Acurácia média para ecoli com media_quadratica: 0.3838
+
+
+Tempo total de execução: 63810.66 segundos
+
+Dataset: ecoli | Abordagem: mediana
+  Rodada 1:
+Epoch: [1] current error: 2907.59237653897
+    Acurácia: 0.2941 | Tempo de treino: 3363.88 segundos
+  Rodada 2:
+Epoch: [1] current error: 2862.177406030414
+    Acurácia: 0.3881 | Tempo de treino: 2434.45 segundos
+  Rodada 3:
+Epoch: [1] current error: 2914.941154193645
+    Acurácia: 0.3134 | Tempo de treino: 2867.26 segundos
+  Rodada 4:
+Epoch: [1] current error: 2843.039379860885
+    Acurácia: 0.3881 | Tempo de treino: 3496.71 segundos
+  Rodada 5:
+Epoch: [1] current error: 2911.1216448244445
+    Acurácia: 0.4030 | Tempo de treino: 2156.07 segundos
+  Acurácia média para ecoli com mediana: 0.3573
+
+
+Tempo total de execução: 78129.81 segundos
+
+Dataset: ecoli | Abordagem: moda
+  Rodada 1:
+    Erro na rodada 1: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (128,) + inhomogeneous part.
+  Rodada 2:
+    Erro na rodada 2: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (128,) + inhomogeneous part.
+  Rodada 3:
+    Erro na rodada 3: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (128,) + inhomogeneous part.
+  Rodada 4:
+    Erro na rodada 4: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (128,) + inhomogeneous part.
+  Rodada 5:
+    Erro na rodada 5: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (128,) + inhomogeneous part.
+  Acurácia média para ecoli com moda: 0.0000
+
+
+Tempo total de execução: 78130.39 segundos
+Tabela de Resultados:
+Abordagem  media_aritmetic  media_geometrica  ...   mediana  moda
+Dataset                                       ...                
+ecoli             0.324539          0.410843  ...  0.357331   0.0
+Média             0.324539          0.410843  ...  0.357331   0.0
+
+[2 rows x 6 columns]
+
+Resultados salvos em 'ecoli.xlsx'.

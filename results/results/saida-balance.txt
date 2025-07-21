@@ -1,0 +1,130 @@
+
+Dataset: balance | Abordagem: media_aritmetic
+  Rodada 1:
+Epoch: [1] current error: 506.96099757266165
+    Acurácia: 0.5920 | Tempo de treino: 648.81 segundos
+  Rodada 2:
+Epoch: [1] current error: 504.44886821359296
+    Acurácia: 0.6080 | Tempo de treino: 620.94 segundos
+  Rodada 3:
+Epoch: [1] current error: 502.52255882280355
+    Acurácia: 0.6640 | Tempo de treino: 737.00 segundos
+  Rodada 4:
+Epoch: [1] current error: 500.2866941395931
+    Acurácia: 0.6640 | Tempo de treino: 698.53 segundos
+  Rodada 5:
+Epoch: [1] current error: 501.914649505238
+    Acurácia: 0.6800 | Tempo de treino: 713.05 segundos
+  Acurácia média para balance com media_aritmetic: 0.6416
+
+
+Tempo total de execução: 3421.38 segundos
+
+Dataset: balance | Abordagem: media_geometrica
+  Rodada 1:
+Epoch: [1] current error: 417.4802996903069
+    Acurácia: 0.6560 | Tempo de treino: 795.27 segundos
+  Rodada 2:
+Epoch: [1] current error: 415.23203902970977
+    Acurácia: 0.6560 | Tempo de treino: 728.17 segundos
+  Rodada 3:
+Epoch: [1] current error: 413.5727481684502
+    Acurácia: 0.7200 | Tempo de treino: 705.38 segundos
+  Rodada 4:
+Epoch: [1] current error: 411.4968251247595
+    Acurácia: 0.6880 | Tempo de treino: 504.83 segundos
+  Rodada 5:
+Epoch: [1] current error: 415.1817890624982
+    Acurácia: 0.7280 | Tempo de treino: 503.34 segundos
+  Acurácia média para balance com media_geometrica: 0.6896
+
+
+Tempo total de execução: 6661.62 segundos
+
+Dataset: balance | Abordagem: media_harmonica
+  Rodada 1:
+Epoch: [1] current error: 577.3696511456133
+    Acurácia: 0.6640 | Tempo de treino: 578.08 segundos
+  Rodada 2:
+Epoch: [1] current error: 577.05648649043
+    Acurácia: 0.6240 | Tempo de treino: 573.59 segundos
+  Rodada 3:
+Epoch: [1] current error: 573.3964752079523
+    Acurácia: 0.7600 | Tempo de treino: 455.68 segundos
+  Rodada 4:
+Epoch: [1] current error: 573.4444291187172
+    Acurácia: 0.6800 | Tempo de treino: 240.84 segundos
+  Rodada 5:
+Epoch: [1] current error: 571.8546950440502
+    Acurácia: 0.6880 | Tempo de treino: 243.49 segundos
+  Acurácia média para balance com media_harmonica: 0.6832
+
+
+Tempo total de execução: 8754.67 segundos
+
+Dataset: balance | Abordagem: media_quadratica
+  Rodada 1:
+Epoch: [1] current error: 515.9585153165783
+    Acurácia: 0.5920 | Tempo de treino: 203.70 segundos
+  Rodada 2:
+Epoch: [1] current error: 513.3383358160625
+    Acurácia: 0.6320 | Tempo de treino: 128.22 segundos
+  Rodada 3:
+Epoch: [1] current error: 512.2626467669344
+    Acurácia: 0.7040 | Tempo de treino: 333.12 segundos
+  Rodada 4:
+Epoch: [1] current error: 511.4048385515795
+    Acurácia: 0.6720 | Tempo de treino: 130.41 segundos
+  Rodada 5:
+Epoch: [1] current error: 509.728484476777
+    Acurácia: 0.6720 | Tempo de treino: 130.52 segundos
+  Acurácia média para balance com media_quadratica: 0.6544
+
+
+Tempo total de execução: 9681.12 segundos
+
+Dataset: balance | Abordagem: mediana
+  Rodada 1:
+Epoch: [1] current error: 383.6135616504969
+    Acurácia: 0.7200 | Tempo de treino: 130.79 segundos
+  Rodada 2:
+Epoch: [1] current error: 382.5588816915206
+    Acurácia: 0.7120 | Tempo de treino: 131.67 segundos
+  Rodada 3:
+Epoch: [1] current error: 381.659463997942
+    Acurácia: 0.7760 | Tempo de treino: 159.34 segundos
+  Rodada 4:
+Epoch: [1] current error: 380.0046457198099
+    Acurácia: 0.7840 | Tempo de treino: 154.36 segundos
+  Rodada 5:
+Epoch: [1] current error: 382.7607495339482
+    Acurácia: 0.7520 | Tempo de treino: 133.00 segundos
+  Acurácia média para balance com mediana: 0.7488
+
+
+Tempo total de execução: 10390.74 segundos
+
+Dataset: balance | Abordagem: moda
+  Rodada 1:
+    Erro na rodada 1: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (16,) + inhomogeneous part.
+  Rodada 2:
+    Erro na rodada 2: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (16,) + inhomogeneous part.
+  Rodada 3:
+    Erro na rodada 3: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (16,) + inhomogeneous part.
+  Rodada 4:
+    Erro na rodada 4: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (16,) + inhomogeneous part.
+  Rodada 5:
+    Erro na rodada 5: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (16,) + inhomogeneous part.
+  Acurácia média para balance com moda: 0.0000
+
+
+Tempo total de execução: 10391.21 segundos
+Tabela de Resultados:
+Abordagem  media_aritmetic  media_geometrica  ...  mediana  moda
+Dataset                                       ...               
+balance             0.6416            0.6896  ...   0.7488   0.0
+Média               0.6416            0.6896  ...   0.7488   0.0
+
+[2 rows x 6 columns]
+
+Resultados salvos em 'balance.xlsx'.

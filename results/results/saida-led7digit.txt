@@ -1,0 +1,130 @@
+
+Dataset: led7digit | Abordagem: media_aritmetic
+  Rodada 1:
+Epoch: [1] current error: 6946.06076593055
+    Acurácia: 0.2000 | Tempo de treino: 10364.93 segundos
+  Rodada 2:
+Epoch: [1] current error: 7073.441033447614
+    Acurácia: 0.2400 | Tempo de treino: 3436.58 segundos
+  Rodada 3:
+Epoch: [1] current error: 6950.289502365444
+    Acurácia: 0.1900 | Tempo de treino: 3628.47 segundos
+  Rodada 4:
+Epoch: [1] current error: 6931.972342210003
+    Acurácia: 0.2000 | Tempo de treino: 4326.52 segundos
+  Rodada 5:
+Epoch: [1] current error: 7028.347827158053
+    Acurácia: 0.2600 | Tempo de treino: 6330.28 segundos
+  Acurácia média para led7digit com media_aritmetic: 0.2180
+
+
+Tempo total de execução: 28087.46 segundos
+
+Dataset: led7digit | Abordagem: media_geometrica
+  Rodada 1:
+Epoch: [1] current error: 6280.036713121163
+    Acurácia: 0.3300 | Tempo de treino: 3496.40 segundos
+  Rodada 2:
+Epoch: [1] current error: 6403.694099508895
+    Acurácia: 0.3300 | Tempo de treino: 3460.96 segundos
+  Rodada 3:
+Epoch: [1] current error: 6310.816601213221
+    Acurácia: 0.3900 | Tempo de treino: 4578.02 segundos
+  Rodada 4:
+Epoch: [1] current error: 6284.942560563586
+    Acurácia: 0.3900 | Tempo de treino: 4656.96 segundos
+  Rodada 5:
+Epoch: [1] current error: 6386.912528221141
+    Acurácia: 0.4700 | Tempo de treino: 6338.97 segundos
+  Acurácia média para led7digit com media_geometrica: 0.3820
+
+
+Tempo total de execução: 50619.59 segundos
+
+Dataset: led7digit | Abordagem: media_harmonica
+  Rodada 1:
+Epoch: [1] current error: 6662.182820755709
+    Acurácia: 0.2200 | Tempo de treino: 3394.76 segundos
+  Rodada 2:
+Epoch: [1] current error: 6792.5559768653675
+    Acurácia: 0.2300 | Tempo de treino: 5056.21 segundos
+  Rodada 3:
+Epoch: [1] current error: 6669.337514272188
+    Acurácia: 0.2500 | Tempo de treino: 3421.45 segundos
+  Rodada 4:
+Epoch: [1] current error: 6662.243076335526
+    Acurácia: 0.2300 | Tempo de treino: 4013.70 segundos
+  Rodada 5:
+Epoch: [1] current error: 6766.229748315059
+    Acurácia: 0.3100 | Tempo de treino: 4023.09 segundos
+  Acurácia média para led7digit com media_harmonica: 0.2480
+
+
+Tempo total de execução: 70529.88 segundos
+
+Dataset: led7digit | Abordagem: media_quadratica
+  Rodada 1:
+Epoch: [1] current error: 6842.199978984672
+    Acurácia: 0.2000 | Tempo de treino: 5120.18 segundos
+  Rodada 2:
+Epoch: [1] current error: 6974.3655107523355
+    Acurácia: 0.2500 | Tempo de treino: 3230.30 segundos
+  Rodada 3:
+Epoch: [1] current error: 6843.3209750029455
+    Acurácia: 0.3000 | Tempo de treino: 3396.37 segundos
+  Rodada 4:
+Epoch: [1] current error: 6825.84843632627
+    Acurácia: 0.2800 | Tempo de treino: 6154.52 segundos
+  Rodada 5:
+Epoch: [1] current error: 6933.547573374712
+    Acurácia: 0.3200 | Tempo de treino: 4989.52 segundos
+  Acurácia média para led7digit com media_quadratica: 0.2700
+
+
+Tempo total de execução: 93421.47 segundos
+
+Dataset: led7digit | Abordagem: mediana
+  Rodada 1:
+Epoch: [1] current error: 8254.446505109205
+    Acurácia: 0.2200 | Tempo de treino: 3104.11 segundos
+  Rodada 2:
+Epoch: [1] current error: 8379.439652902134
+    Acurácia: 0.1700 | Tempo de treino: 3202.79 segundos
+  Rodada 3:
+Epoch: [1] current error: 8243.270919931872
+    Acurácia: 0.2200 | Tempo de treino: 3995.80 segundos
+  Rodada 4:
+Epoch: [1] current error: 8271.902983421849
+    Acurácia: 0.2000 | Tempo de treino: 5794.20 segundos
+  Rodada 5:
+Epoch: [1] current error: 8291.648287569511
+    Acurácia: 0.3100 | Tempo de treino: 3149.69 segundos
+  Acurácia média para led7digit com mediana: 0.2240
+
+
+Tempo total de execução: 112668.84 segundos
+
+Dataset: led7digit | Abordagem: moda
+  Rodada 1:
+    Erro na rodada 1: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (128,) + inhomogeneous part.
+  Rodada 2:
+    Erro na rodada 2: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (128,) + inhomogeneous part.
+  Rodada 3:
+    Erro na rodada 3: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (128,) + inhomogeneous part.
+  Rodada 4:
+    Erro na rodada 4: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (128,) + inhomogeneous part.
+  Rodada 5:
+    Erro na rodada 5: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (128,) + inhomogeneous part.
+  Acurácia média para led7digit com moda: 0.0000
+
+
+Tempo total de execução: 112669.63 segundos
+Tabela de Resultados:
+Abordagem  media_aritmetic  media_geometrica  ...  mediana  moda
+Dataset                                       ...               
+led7digit            0.218             0.382  ...    0.224   0.0
+Média                0.218             0.382  ...    0.224   0.0
+
+[2 rows x 6 columns]
+
+Resultados salvos em 'led7digit.xlsx'.

@@ -1,0 +1,130 @@
+
+Dataset: appendicitis | Abordagem: media_aritmetic
+  Rodada 1:
+Epoch: [1] current error: 31.55056258148089
+    Acurácia: 0.9091 | Tempo de treino: 3889.46 segundos
+  Rodada 2:
+Epoch: [1] current error: 32.12174755163872
+    Acurácia: 0.8571 | Tempo de treino: 3494.97 segundos
+  Rodada 3:
+Epoch: [1] current error: 31.367065874782032
+    Acurácia: 0.9048 | Tempo de treino: 1717.86 segundos
+  Rodada 4:
+Epoch: [1] current error: 31.276707654891396
+    Acurácia: 0.9524 | Tempo de treino: 880.51 segundos
+  Rodada 5:
+Epoch: [1] current error: 31.71122594521745
+    Acurácia: 0.8095 | Tempo de treino: 889.02 segundos
+  Acurácia média para appendicitis com media_aritmetic: 0.8866
+
+
+Tempo total de execução: 10873.30 segundos
+
+Dataset: appendicitis | Abordagem: media_geometrica
+  Rodada 1:
+Epoch: [1] current error: 25.549854223538357
+    Acurácia: 0.9545 | Tempo de treino: 740.41 segundos
+  Rodada 2:
+Epoch: [1] current error: 26.186684018569746
+    Acurácia: 0.9048 | Tempo de treino: 814.16 segundos
+  Rodada 3:
+Epoch: [1] current error: 26.001302372762627
+    Acurácia: 0.9048 | Tempo de treino: 720.10 segundos
+  Rodada 4:
+Epoch: [1] current error: 25.385783185942028
+    Acurácia: 0.9048 | Tempo de treino: 841.28 segundos
+  Rodada 5:
+Epoch: [1] current error: 25.80870876491644
+    Acurácia: 0.9524 | Tempo de treino: 878.05 segundos
+  Acurácia média para appendicitis com media_geometrica: 0.9242
+
+
+Tempo total de execução: 14867.87 segundos
+
+Dataset: appendicitis | Abordagem: media_harmonica
+  Rodada 1:
+Epoch: [1] current error: 30.7257294668248
+    Acurácia: 0.9091 | Tempo de treino: 735.42 segundos
+  Rodada 2:
+Epoch: [1] current error: 30.8599413186626
+    Acurácia: 0.8571 | Tempo de treino: 758.57 segundos
+  Rodada 3:
+Epoch: [1] current error: 30.465025457451524
+    Acurácia: 0.9048 | Tempo de treino: 813.73 segundos
+  Rodada 4:
+Epoch: [1] current error: 30.437154994699377
+    Acurácia: 0.9524 | Tempo de treino: 888.35 segundos
+  Rodada 5:
+Epoch: [1] current error: 30.821332033459605
+    Acurácia: 0.8571 | Tempo de treino: 752.07 segundos
+  Acurácia média para appendicitis com media_harmonica: 0.8961
+
+
+Tempo total de execução: 18816.40 segundos
+
+Dataset: appendicitis | Abordagem: media_quadratica
+  Rodada 1:
+Epoch: [1] current error: 29.501465039493358
+    Acurácia: 0.9545 | Tempo de treino: 818.11 segundos
+  Rodada 2:
+Epoch: [1] current error: 29.97984276549434
+    Acurácia: 0.8571 | Tempo de treino: 837.69 segundos
+  Rodada 3:
+Epoch: [1] current error: 29.478506756572212
+    Acurácia: 0.9048 | Tempo de treino: 1832.61 segundos
+  Rodada 4:
+Epoch: [1] current error: 29.26098094001722
+    Acurácia: 0.9524 | Tempo de treino: 1494.08 segundos
+  Rodada 5:
+Epoch: [1] current error: 29.679358598040746
+    Acurácia: 0.8571 | Tempo de treino: 1127.44 segundos
+  Acurácia média para appendicitis com media_quadratica: 0.9052
+
+
+Tempo total de execução: 24927.14 segundos
+
+Dataset: appendicitis | Abordagem: mediana
+  Rodada 1:
+Epoch: [1] current error: 29.02532355539457
+    Acurácia: 0.9091 | Tempo de treino: 929.10 segundos
+  Rodada 2:
+Epoch: [1] current error: 29.66858679500207
+    Acurácia: 0.8571 | Tempo de treino: 1692.28 segundos
+  Rodada 3:
+Epoch: [1] current error: 29.200183804855353
+    Acurácia: 0.9048 | Tempo de treino: 1069.59 segundos
+  Rodada 4:
+Epoch: [1] current error: 29.029433795364305
+    Acurácia: 0.9524 | Tempo de treino: 745.75 segundos
+  Rodada 5:
+Epoch: [1] current error: 29.33945278899305
+    Acurácia: 0.9048 | Tempo de treino: 801.98 segundos
+  Acurácia média para appendicitis com mediana: 0.9056
+
+
+Tempo total de execução: 30166.45 segundos
+
+Dataset: appendicitis | Abordagem: moda
+  Rodada 1:
+    Erro na rodada 1: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (128,) + inhomogeneous part.
+  Rodada 2:
+    Erro na rodada 2: operands could not be broadcast together with shapes (7,) (8,) 
+  Rodada 3:
+    Erro na rodada 3: operands could not be broadcast together with shapes (7,) (8,) 
+  Rodada 4:
+    Erro na rodada 4: operands could not be broadcast together with shapes (7,) (8,) 
+  Rodada 5:
+    Erro na rodada 5: operands could not be broadcast together with shapes (7,) (8,) 
+  Acurácia média para appendicitis com moda: 0.0000
+
+
+Tempo total de execução: 30166.88 segundos
+Tabela de Resultados:
+Abordagem     media_aritmetic  media_geometrica  ...   mediana  moda
+Dataset                                          ...                
+appendicitis          0.88658          0.924242  ...  0.905628   0.0
+Média                 0.88658          0.924242  ...  0.905628   0.0
+
+[2 rows x 6 columns]
+
+Resultados salvos em 'appendicitis.xlsx'.
