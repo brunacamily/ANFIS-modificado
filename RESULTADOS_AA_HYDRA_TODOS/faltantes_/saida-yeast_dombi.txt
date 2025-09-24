@@ -1,0 +1,23 @@
+
+=== Dataset: yeast | Abordagem: dombi | Lambda: 0.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 11762.462435791458
+    Acurácia: 0.3367 | Tempo treino: 79556.44s
+  Fold 2/5...
+Epoch: [1] current error: 11799.201705580514
+    Acurácia: 0.2997 | Tempo treino: 61220.49s
+  Fold 3/5...
+Epoch: [1] current error: 11800.026909914213
+    Acurácia: 0.3131 | Tempo treino: 40915.33s
+  Fold 4/5...
+Epoch: [1] current error: 11773.750348696889
+    Acurácia: 0.3199 | Tempo treino: 40504.74s
+  Fold 5/5...
+Epoch: [1] current error: 11847.626820340227
+    Acurácia: 0.3446 | Tempo treino: 41186.70s
+
+
+Dataset: yeast | Abordagem: dombi | Lambda: 0.0 | Média final: 0.3228
+
+--- Tempo total: 263385.98s ---
+Resultados salvos em 'faltantes/planilhas/yeast_0.0.xlsx'.

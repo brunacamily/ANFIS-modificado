@@ -1,0 +1,23 @@
+
+=== Dataset: hayes-roth | Abordagem: media_geometrica ===
+  Fold 1/5...
+Epoch: [1] current error: 94.04110344489213
+    Acurácia: 0.7037 | Tempo treino: 34.76s
+  Fold 2/5...
+Epoch: [1] current error: 97.33230624515961
+    Acurácia: 0.6296 | Tempo treino: 66.77s
+  Fold 3/5...
+Epoch: [1] current error: 96.78372338700062
+    Acurácia: 0.5385 | Tempo treino: 181.09s
+  Fold 4/5...
+Epoch: [1] current error: 95.34968522582065
+    Acurácia: 0.6538 | Tempo treino: 216.10s
+  Fold 5/5...
+Epoch: [1] current error: 94.38458378223973
+    Acurácia: 0.7308 | Tempo treino: 275.81s
+
+
+Dataset: hayes-roth | Abordagem: media_geometrica | Média final: 0.6513
+
+--- Tempo total: 776.91s ---
+Resultados salvos em 'faltantes/planilhas/hayes-roth.xlsx'.

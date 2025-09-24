@@ -1,0 +1,23 @@
+
+=== Dataset: glass | Abordagem: schweizer_skar | Lambda: 0.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 749.112133222298
+    Acurácia: 0.4884 | Tempo treino: 43897.52s
+  Fold 2/5...
+Epoch: [1] current error: 765.054826072227
+    Acurácia: 0.4186 | Tempo treino: 22198.92s
+  Fold 3/5...
+Epoch: [1] current error: 788.3720333893364
+    Acurácia: 0.5349 | Tempo treino: 38878.78s
+  Fold 4/5...
+Epoch: [1] current error: 784.1501829788438
+    Acurácia: 0.4419 | Tempo treino: 20773.94s
+  Fold 5/5...
+Epoch: [1] current error: 752.9692544905131
+    Acurácia: 0.4048 | Tempo treino: 39148.69s
+
+
+Dataset: glass | Abordagem: schweizer_skar | Lambda: 0.0 | Média final: 0.4577
+
+--- Tempo total: 164898.61s ---
+Resultados salvos em 'faltantes/planilhas/glass_0.0.xlsx'.

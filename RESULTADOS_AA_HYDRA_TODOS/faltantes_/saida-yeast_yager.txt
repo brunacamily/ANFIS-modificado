@@ -1,0 +1,23 @@
+
+=== Dataset: yeast | Abordagem: yager | Lambda: 0.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 11762.462435791458
+    Acurácia: 0.3367 | Tempo treino: 77825.71s
+  Fold 2/5...
+Epoch: [1] current error: 11799.201705580514
+    Acurácia: 0.2997 | Tempo treino: 62692.58s
+  Fold 3/5...
+Epoch: [1] current error: 11800.026909914213
+    Acurácia: 0.3131 | Tempo treino: 40269.27s
+  Fold 4/5...
+Epoch: [1] current error: 11773.750348696889
+    Acurácia: 0.3199 | Tempo treino: 39074.63s
+  Fold 5/5...
+Epoch: [1] current error: 11847.626820340227
+    Acurácia: 0.3446 | Tempo treino: 42943.43s
+
+
+Dataset: yeast | Abordagem: yager | Lambda: 0.0 | Média final: 0.3228
+
+--- Tempo total: 262808.35s ---
+Resultados salvos em 'faltantes/planilhas/yeast_0.0.xlsx'.

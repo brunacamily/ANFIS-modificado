@@ -1,0 +1,23 @@
+
+=== Dataset: appendicitis | Abordagem: sugeno_weber ===
+  Fold 1/5...
+Epoch: [1] current error: 29.520788850282997
+    Acurácia: 0.9545 | Tempo treino: 10157.27s
+  Fold 2/5...
+Epoch: [1] current error: 29.729825764523525
+    Acurácia: 0.8571 | Tempo treino: 7215.74s
+  Fold 3/5...
+Epoch: [1] current error: 29.396766866405567
+    Acurácia: 0.9048 | Tempo treino: 3720.04s
+  Fold 4/5...
+Epoch: [1] current error: 29.22444233068718
+    Acurácia: 0.9048 | Tempo treino: 1047.62s
+  Fold 5/5...
+Epoch: [1] current error: 29.733517731704858
+    Acurácia: 0.8571 | Tempo treino: 1145.03s
+
+
+Dataset: appendicitis | Abordagem: sugeno_weber | Média final: 0.8957
+
+--- Tempo total: 23287.89s ---
+Resultados salvos em 'faltantes/planilhas/appendicitis.xlsx'.

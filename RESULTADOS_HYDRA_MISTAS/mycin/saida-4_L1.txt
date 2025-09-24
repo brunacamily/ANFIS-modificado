@@ -1,0 +1,23 @@
+
+=== Dataset: bupa | Abordagem: mycin | Lambda: 1.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 157.22621274000306
+    Acurácia: 0.8261 | Tempo treino: 12723.97s
+  Fold 2/5...
+Epoch: [1] current error: 159.8277569465626
+    Acurácia: 0.7536 | Tempo treino: 10405.99s
+  Fold 3/5...
+Epoch: [1] current error: 158.78744579205636
+    Acurácia: 0.7681 | Tempo treino: 5381.73s
+  Fold 4/5...
+Epoch: [1] current error: 155.96977571480028
+    Acurácia: 0.8841 | Tempo treino: 1273.94s
+  Fold 5/5...
+Epoch: [1] current error: 158.61918588258385
+    Acurácia: 0.7826 | Tempo treino: 1485.18s
+
+
+Dataset: bupa | Abordagem: mycin | Lambda: 1.0 | Média final: 0.8029
+
+--- Tempo total: 31274.04s ---
+Resultados salvos em 'mistas/planilhas/bupa_1.0.xlsx'.

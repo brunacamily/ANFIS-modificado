@@ -1,0 +1,23 @@
+
+=== Dataset: phoneme | Abordagem: hamacher_prod | Lambda: 0.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 2695.2433909118527
+    Acurácia: 0.7576 | Tempo treino: 35496.79s
+  Fold 2/5...
+Epoch: [1] current error: 2699.4491847704085
+    Acurácia: 0.7447 | Tempo treino: 2900.18s
+  Fold 3/5...
+Epoch: [1] current error: 2695.686501178037
+    Acurácia: 0.7549 | Tempo treino: 5551.45s
+  Fold 4/5...
+Epoch: [1] current error: 2684.655212005378
+    Acurácia: 0.7539 | Tempo treino: 14106.96s
+  Fold 5/5...
+Epoch: [1] current error: 2693.294415762591
+    Acurácia: 0.7481 | Tempo treino: 2744.44s
+
+
+Dataset: phoneme | Abordagem: hamacher_prod | Lambda: 0.0 | Média final: 0.7518
+
+--- Tempo total: 60802.37s ---
+Resultados salvos em 'faltantes/planilhas/phoneme_0.0.xlsx'.

@@ -1,0 +1,23 @@
+
+=== Dataset: pima | Abordagem: produto ===
+  Fold 1/5...
+Epoch: [1] current error: 386.89516756714085
+    Acurácia: 0.7857 | Tempo treino: 38468.08s
+  Fold 2/5...
+Epoch: [1] current error: 388.80573693220686
+    Acurácia: 0.7662 | Tempo treino: 23545.34s
+  Fold 3/5...
+Epoch: [1] current error: 386.99657425531865
+    Acurácia: 0.8312 | Tempo treino: 42485.70s
+  Fold 4/5...
+Epoch: [1] current error: 391.60335229278553
+    Acurácia: 0.7647 | Tempo treino: 28607.54s
+  Fold 5/5...
+Epoch: [1] current error: 389.4517956014615
+    Acurácia: 0.7516 | Tempo treino: 34336.55s
+
+
+Dataset: pima | Abordagem: produto | Média final: 0.7799
+
+--- Tempo total: 167444.30s ---
+Resultados salvos em 'faltantes/planilhas/pima.xlsx'.

@@ -1,0 +1,23 @@
+
+=== Dataset: yeast | Abordagem: produto ===
+  Fold 1/5...
+Epoch: [1] current error: 11746.522725007122
+    Acurácia: 0.3367 | Tempo treino: 83194.72s
+  Fold 2/5...
+Epoch: [1] current error: 11784.881024049751
+    Acurácia: 0.3030 | Tempo treino: 61977.35s
+  Fold 3/5...
+Epoch: [1] current error: 11785.95579789087
+    Acurácia: 0.3131 | Tempo treino: 42756.22s
+  Fold 4/5...
+Epoch: [1] current error: 11759.396699135368
+    Acurácia: 0.3199 | Tempo treino: 37592.99s
+  Fold 5/5...
+Epoch: [1] current error: 11832.937009805042
+    Acurácia: 0.3446 | Tempo treino: 38497.26s
+
+
+Dataset: yeast | Abordagem: produto | Média final: 0.3235
+
+--- Tempo total: 264021.48s ---
+Resultados salvos em 'faltantes/planilhas/yeast.xlsx'.

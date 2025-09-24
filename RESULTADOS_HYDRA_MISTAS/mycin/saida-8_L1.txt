@@ -1,0 +1,23 @@
+
+=== Dataset: hayes-roth | Abordagem: mycin | Lambda: 1.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 72.66545975080882
+    Acurácia: 0.2593 | Tempo treino: 309.11s
+  Fold 2/5...
+Epoch: [1] current error: 75.98947150853337
+    Acurácia: 0.2963 | Tempo treino: 438.86s
+  Fold 3/5...
+Epoch: [1] current error: 74.61839204152152
+    Acurácia: 0.2692 | Tempo treino: 482.07s
+  Fold 4/5...
+Epoch: [1] current error: 72.43495458847828
+    Acurácia: 0.2308 | Tempo treino: 530.68s
+  Fold 5/5...
+Epoch: [1] current error: 74.34619353788969
+    Acurácia: 0.2308 | Tempo treino: 468.13s
+
+
+Dataset: hayes-roth | Abordagem: mycin | Lambda: 1.0 | Média final: 0.2573
+
+--- Tempo total: 2232.95s ---
+Resultados salvos em 'mistas/planilhas/hayes-roth_1.0.xlsx'.

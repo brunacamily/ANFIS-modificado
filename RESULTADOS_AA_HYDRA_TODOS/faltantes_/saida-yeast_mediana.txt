@@ -1,0 +1,23 @@
+
+=== Dataset: yeast | Abordagem: mediana ===
+  Fold 1/5...
+Epoch: [1] current error: 10422.168229042623
+    Acurácia: 0.3232 | Tempo treino: 78601.11s
+  Fold 2/5...
+Epoch: [1] current error: 10493.230818563046
+    Acurácia: 0.3199 | Tempo treino: 63803.52s
+  Fold 3/5...
+Epoch: [1] current error: 10489.872176548288
+    Acurácia: 0.3603 | Tempo treino: 43017.53s
+  Fold 4/5...
+Epoch: [1] current error: 10450.103092389094
+    Acurácia: 0.3333 | Tempo treino: 40108.18s
+  Fold 5/5...
+Epoch: [1] current error: 10540.418891571491
+    Acurácia: 0.3682 | Tempo treino: 38618.32s
+
+
+Dataset: yeast | Abordagem: mediana | Média final: 0.3410
+
+--- Tempo total: 264153.42s ---
+Resultados salvos em 'faltantes/planilhas/yeast.xlsx'.

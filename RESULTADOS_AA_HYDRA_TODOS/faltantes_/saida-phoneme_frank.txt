@@ -1,0 +1,23 @@
+
+=== Dataset: phoneme | Abordagem: frank | Lambda: 0.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 2694.4959111215744
+    Acurácia: 0.7567 | Tempo treino: 34179.67s
+  Fold 2/5...
+Epoch: [1] current error: 2698.7176215543122
+    Acurácia: 0.7447 | Tempo treino: 2966.97s
+  Fold 3/5...
+Epoch: [1] current error: 2694.996403891957
+    Acurácia: 0.7549 | Tempo treino: 4567.06s
+  Fold 4/5...
+Epoch: [1] current error: 2683.962318386644
+    Acurácia: 0.7530 | Tempo treino: 11104.54s
+  Fold 5/5...
+Epoch: [1] current error: 2692.5907328046414
+    Acurácia: 0.7491 | Tempo treino: 6312.78s
+
+
+Dataset: phoneme | Abordagem: frank | Lambda: 0.0 | Média final: 0.7517
+
+--- Tempo total: 59135.22s ---
+Resultados salvos em 'faltantes/planilhas/phoneme_0.0.xlsx'.

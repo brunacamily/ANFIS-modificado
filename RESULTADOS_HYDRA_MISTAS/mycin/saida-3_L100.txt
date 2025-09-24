@@ -1,0 +1,23 @@
+
+=== Dataset: banana | Abordagem: mycin | Lambda: 100.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 4108.908399729995
+    Acurácia: 0.6009 | Tempo treino: 2273.73s
+  Fold 2/5...
+Epoch: [1] current error: 4109.735550639507
+    Acurácia: 0.6028 | Tempo treino: 2098.04s
+  Fold 3/5...
+Epoch: [1] current error: 4110.2831764111215
+    Acurácia: 0.6142 | Tempo treino: 2763.14s
+  Fold 4/5...
+Epoch: [1] current error: 4109.731885087251
+    Acurácia: 0.6028 | Tempo treino: 2744.54s
+  Fold 5/5...
+Epoch: [1] current error: 4108.673704808918
+    Acurácia: 0.6170 | Tempo treino: 2610.77s
+
+
+Dataset: banana | Abordagem: mycin | Lambda: 100.0 | Média final: 0.6075
+
+--- Tempo total: 12511.79s ---
+Resultados salvos em 'mistas/planilhas/banana_100.0.xlsx'.

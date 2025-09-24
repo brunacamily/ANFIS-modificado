@@ -1,0 +1,95 @@
+
+=== Dataset: iris | Abordagem: t_norma_AA | Lambda: 1.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 21.952413300528388
+    Acurácia: 1.0000 | Tempo treino: 219.89s
+  Fold 2/5...
+Epoch: [1] current error: 21.99464447534474
+    Acurácia: 0.9667 | Tempo treino: 245.04s
+  Fold 3/5...
+Epoch: [1] current error: 22.244602339000153
+    Acurácia: 1.0000 | Tempo treino: 220.99s
+  Fold 4/5...
+Epoch: [1] current error: 22.84360862420246
+    Acurácia: 0.9667 | Tempo treino: 203.92s
+  Fold 5/5...
+Epoch: [1] current error: 22.221974748060475
+    Acurácia: 0.9333 | Tempo treino: 270.25s
+
+
+Dataset: iris | Abordagem: t_norma_AA | Lambda: 1.0 | Média final: 0.9733
+
+--- Tempo total: 1162.22s ---
+Resultados salvos em 'AA/planilhas/iris_1.0.xlsx'.
+
+=== Dataset: iris | Abordagem: mycin | Lambda: 1.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: iris | Abordagem: mycin | Lambda: 1.0 | Média final: 0.0000
+
+--- Tempo total: 0.47s ---
+Resultados salvos em 'AA/planilhas/iris_1.0.xlsx'.
+
+=== Dataset: iris | Abordagem: prospector | Lambda: 1.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: iris | Abordagem: prospector | Lambda: 1.0 | Média final: 0.0000
+
+--- Tempo total: 0.20s ---
+Resultados salvos em 'AA/planilhas/iris_1.0.xlsx'.
+
+=== Dataset: iris | Abordagem: mycin | Lambda: 1.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: iris | Abordagem: mycin | Lambda: 1.0 | Média final: 0.0000
+
+--- Tempo total: 0.21s ---
+Resultados salvos em 'mistas/planilhas/iris_1.0.xlsx'.
+
+=== Dataset: iris | Abordagem: prospector | Lambda: 1.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: iris | Abordagem: prospector | Lambda: 1.0 | Média final: 0.0000
+
+--- Tempo total: 0.41s ---
+Resultados salvos em 'mistas/planilhas/iris_1.0.xlsx'.

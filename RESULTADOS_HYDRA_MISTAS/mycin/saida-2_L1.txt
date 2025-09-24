@@ -1,0 +1,23 @@
+
+=== Dataset: balance | Abordagem: mycin | Lambda: 1.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 290.3769730191042
+    Acurácia: 0.3840 | Tempo treino: 2147.29s
+  Fold 2/5...
+Epoch: [1] current error: 290.3699924867121
+    Acurácia: 0.3360 | Tempo treino: 1863.84s
+  Fold 3/5...
+Epoch: [1] current error: 289.6419237158211
+    Acurácia: 0.4240 | Tempo treino: 2329.56s
+  Fold 4/5...
+Epoch: [1] current error: 289.26029173609516
+    Acurácia: 0.3760 | Tempo treino: 2678.23s
+  Fold 5/5...
+Epoch: [1] current error: 285.8552068163328
+    Acurácia: 0.3520 | Tempo treino: 2454.14s
+
+
+Dataset: balance | Abordagem: mycin | Lambda: 1.0 | Média final: 0.3744
+
+--- Tempo total: 11478.87s ---
+Resultados salvos em 'mistas/planilhas/balance_1.0.xlsx'.

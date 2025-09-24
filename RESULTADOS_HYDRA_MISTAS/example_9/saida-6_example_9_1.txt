@@ -1,0 +1,23 @@
+
+=== Dataset: glass | Abordagem: example_9_1 ===
+  Fold 1/5...
+Epoch: [1] current error: 750.6217769589178
+    Acurácia: 0.4884 | Tempo treino: 33459.33s
+  Fold 2/5...
+Epoch: [1] current error: 766.1163882664084
+    Acurácia: 0.4651 | Tempo treino: 27970.19s
+  Fold 3/5...
+Epoch: [1] current error: 790.4933279358879
+    Acurácia: 0.5349 | Tempo treino: 30908.50s
+  Fold 4/5...
+Epoch: [1] current error: 784.5017066799928
+    Acurácia: 0.4419 | Tempo treino: 27296.89s
+  Fold 5/5...
+Epoch: [1] current error: 754.4069758473153
+    Acurácia: 0.4048 | Tempo treino: 32830.52s
+
+
+Dataset: glass | Abordagem: example_9_1 | Média final: 0.4670
+
+--- Tempo total: 152466.09s ---
+Resultados salvos em 'faltantes/planilhas/glass.xlsx'.

@@ -1,0 +1,23 @@
+
+=== Dataset: banana | Abordagem: example_10 ===
+  Fold 1/5...
+Epoch: [1] current error: 3802.914406243434
+    Acurácia: 0.6406 | Tempo treino: 782.81s
+  Fold 2/5...
+Epoch: [1] current error: 3803.7807028228385
+    Acurácia: 0.6509 | Tempo treino: 839.20s
+  Fold 3/5...
+Epoch: [1] current error: 3803.153336165795
+    Acurácia: 0.6264 | Tempo treino: 867.15s
+  Fold 4/5...
+Epoch: [1] current error: 3800.479793383653
+    Acurácia: 0.6528 | Tempo treino: 899.38s
+  Fold 5/5...
+Epoch: [1] current error: 3799.5204745822084
+    Acurácia: 0.6670 | Tempo treino: 904.03s
+
+
+Dataset: banana | Abordagem: example_10 | Média final: 0.6475
+
+--- Tempo total: 4301.51s ---
+Resultados salvos em 'faltantes/planilhas/banana.xlsx'.

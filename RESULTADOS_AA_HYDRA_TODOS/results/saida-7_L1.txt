@@ -1,0 +1,95 @@
+
+=== Dataset: haberman | Abordagem: t_norma_AA | Lambda: 1.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 173.74948305572826
+    Acurácia: 0.7419 | Tempo treino: 129.57s
+  Fold 2/5...
+Epoch: [1] current error: 173.9696400579425
+    Acurácia: 0.7049 | Tempo treino: 216.88s
+  Fold 3/5...
+Epoch: [1] current error: 173.79429174455368
+    Acurácia: 0.7213 | Tempo treino: 160.24s
+  Fold 4/5...
+Epoch: [1] current error: 172.26745867949546
+    Acurácia: 0.7705 | Tempo treino: 166.22s
+  Fold 5/5...
+Epoch: [1] current error: 173.32586541596652
+    Acurácia: 0.7869 | Tempo treino: 157.06s
+
+
+Dataset: haberman | Abordagem: t_norma_AA | Lambda: 1.0 | Média final: 0.7451
+
+--- Tempo total: 832.65s ---
+Resultados salvos em 'AA/planilhas/haberman_1.0.xlsx'.
+
+=== Dataset: haberman | Abordagem: mycin | Lambda: 1.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: haberman | Abordagem: mycin | Lambda: 1.0 | Média final: 0.0000
+
+--- Tempo total: 0.40s ---
+Resultados salvos em 'AA/planilhas/haberman_1.0.xlsx'.
+
+=== Dataset: haberman | Abordagem: prospector | Lambda: 1.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: haberman | Abordagem: prospector | Lambda: 1.0 | Média final: 0.0000
+
+--- Tempo total: 0.35s ---
+Resultados salvos em 'AA/planilhas/haberman_1.0.xlsx'.
+
+=== Dataset: haberman | Abordagem: mycin | Lambda: 1.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: haberman | Abordagem: mycin | Lambda: 1.0 | Média final: 0.0000
+
+--- Tempo total: 0.44s ---
+Resultados salvos em 'mistas/planilhas/haberman_1.0.xlsx'.
+
+=== Dataset: haberman | Abordagem: prospector | Lambda: 1.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: haberman | Abordagem: prospector | Lambda: 1.0 | Média final: 0.0000
+
+--- Tempo total: 0.22s ---
+Resultados salvos em 'mistas/planilhas/haberman_1.0.xlsx'.

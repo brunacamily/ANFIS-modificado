@@ -1,0 +1,23 @@
+
+=== Dataset: titanic | Abordagem: mycin | Lambda: 100.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 1116.4929543989167
+    Acurácia: 0.7528 | Tempo treino: 2522.07s
+  Fold 2/5...
+Epoch: [1] current error: 1111.020179068912
+    Acurácia: 0.7795 | Tempo treino: 2038.18s
+  Fold 3/5...
+Epoch: [1] current error: 1107.6704987638418
+    Acurácia: 0.7977 | Tempo treino: 2535.73s
+  Fold 4/5...
+Epoch: [1] current error: 1111.9031147011988
+    Acurácia: 0.7773 | Tempo treino: 2611.72s
+  Fold 5/5...
+Epoch: [1] current error: 1112.8518513491463
+    Acurácia: 0.7773 | Tempo treino: 2882.65s
+
+
+Dataset: titanic | Abordagem: mycin | Lambda: 100.0 | Média final: 0.7769
+
+--- Tempo total: 12597.91s ---
+Resultados salvos em 'mistas/planilhas/titanic_100.0.xlsx'.

@@ -1,0 +1,23 @@
+
+=== Dataset: led7digit | Abordagem: example_10 ===
+  Fold 1/5...
+Epoch: [1] current error: 9978.552372362778
+    Acurácia: 0.1200 | Tempo treino: 12615.47s
+  Fold 2/5...
+Epoch: [1] current error: 10085.968050990725
+    Acurácia: 0.0800 | Tempo treino: 2770.68s
+  Fold 3/5...
+Epoch: [1] current error: 10055.722338863237
+    Acurácia: 0.1300 | Tempo treino: 2954.67s
+  Fold 4/5...
+Epoch: [1] current error: 9997.51185472333
+    Acurácia: 0.0700 | Tempo treino: 3400.34s
+  Fold 5/5...
+Epoch: [1] current error: 10027.196167139937
+    Acurácia: 0.1200 | Tempo treino: 7851.15s
+
+
+Dataset: led7digit | Abordagem: example_10 | Média final: 0.1040
+
+--- Tempo total: 29592.98s ---
+Resultados salvos em 'faltantes/planilhas/led7digit.xlsx'.

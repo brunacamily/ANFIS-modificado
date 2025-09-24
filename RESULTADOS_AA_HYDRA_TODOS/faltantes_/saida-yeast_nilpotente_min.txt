@@ -1,0 +1,23 @@
+
+=== Dataset: yeast | Abordagem: nilpotente_min ===
+  Fold 1/5...
+Epoch: [1] current error: 11762.15041628588
+    Acurácia: 0.3367 | Tempo treino: 76267.45s
+  Fold 2/5...
+Epoch: [1] current error: 11798.895632687081
+    Acurácia: 0.3030 | Tempo treino: 64279.15s
+  Fold 3/5...
+Epoch: [1] current error: 11799.724814494068
+    Acurácia: 0.3131 | Tempo treino: 42562.89s
+  Fold 4/5...
+Epoch: [1] current error: 11773.446181141953
+    Acurácia: 0.3199 | Tempo treino: 41750.52s
+  Fold 5/5...
+Epoch: [1] current error: 11847.330664803325
+    Acurácia: 0.3446 | Tempo treino: 39084.12s
+
+
+Dataset: yeast | Abordagem: nilpotente_min | Média final: 0.3235
+
+--- Tempo total: 263947.35s ---
+Resultados salvos em 'faltantes/planilhas/yeast.xlsx'.

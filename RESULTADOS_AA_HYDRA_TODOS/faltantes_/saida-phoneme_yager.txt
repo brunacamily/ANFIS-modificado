@@ -1,0 +1,23 @@
+
+=== Dataset: phoneme | Abordagem: yager | Lambda: 0.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 2698.7566485317066
+    Acurácia: 0.7567 | Tempo treino: 27994.42s
+  Fold 2/5...
+Epoch: [1] current error: 2702.961241046642
+    Acurácia: 0.7456 | Tempo treino: 8794.23s
+  Fold 3/5...
+Epoch: [1] current error: 2699.1415745026607
+    Acurácia: 0.7549 | Tempo treino: 4454.16s
+  Fold 4/5...
+Epoch: [1] current error: 2688.110950929557
+    Acurácia: 0.7521 | Tempo treino: 7295.37s
+  Fold 5/5...
+Epoch: [1] current error: 2696.8158254170507
+    Acurácia: 0.7500 | Tempo treino: 9952.29s
+
+
+Dataset: phoneme | Abordagem: yager | Lambda: 0.0 | Média final: 0.7519
+
+--- Tempo total: 58498.24s ---
+Resultados salvos em 'faltantes/planilhas/phoneme_0.0.xlsx'.

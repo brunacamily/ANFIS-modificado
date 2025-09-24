@@ -1,0 +1,23 @@
+
+=== Dataset: newthyroid | Abordagem: mycin | Lambda: 100.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 65.15741266866661
+    Acurácia: 0.9070 | Tempo treino: 2726.36s
+  Fold 2/5...
+Epoch: [1] current error: 66.21430078360652
+    Acurácia: 0.8605 | Tempo treino: 2629.09s
+  Fold 3/5...
+Epoch: [1] current error: 66.57168243957337
+    Acurácia: 0.9535 | Tempo treino: 3168.87s
+  Fold 4/5...
+Epoch: [1] current error: 63.2996453495845
+    Acurácia: 0.9302 | Tempo treino: 3263.88s
+  Fold 5/5...
+Epoch: [1] current error: 65.20598842138563
+    Acurácia: 0.9535 | Tempo treino: 3063.51s
+
+
+Dataset: newthyroid | Abordagem: mycin | Lambda: 100.0 | Média final: 0.9209
+
+--- Tempo total: 14857.70s ---
+Resultados salvos em 'mistas/planilhas/newthyroid_100.0.xlsx'.

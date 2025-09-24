@@ -1,0 +1,23 @@
+
+=== Dataset: glass | Abordagem: yager | Lambda: 0.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 752.4291490181555
+    Acurácia: 0.4884 | Tempo treino: 44172.68s
+  Fold 2/5...
+Epoch: [1] current error: 768.0093206988529
+    Acurácia: 0.4651 | Tempo treino: 21485.17s
+  Fold 3/5...
+Epoch: [1] current error: 792.2505302512076
+    Acurácia: 0.5349 | Tempo treino: 37317.87s
+  Fold 4/5...
+Epoch: [1] current error: 786.6660882222325
+    Acurácia: 0.4419 | Tempo treino: 20428.54s
+  Fold 5/5...
+Epoch: [1] current error: 756.1863812908159
+    Acurácia: 0.4048 | Tempo treino: 40026.91s
+
+
+Dataset: glass | Abordagem: yager | Lambda: 0.0 | Média final: 0.4670
+
+--- Tempo total: 163432.16s ---
+Resultados salvos em 'faltantes/planilhas/glass_0.0.xlsx'.

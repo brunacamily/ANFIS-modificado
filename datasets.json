@@ -1,0 +1,153 @@
+{
+    "1": {
+        "name": "appendicitis",
+        "n_splits": 5,
+        "classes": {
+            "0": 0,
+            "1": 1
+        }
+    },
+    "2": {
+        "name": "balance",
+        "n_splits": 5,
+        "classes": {
+            "L": 0,
+            "B": 1,
+            "R": 2
+        }
+    },
+    "3": {
+        "name": "banana",
+        "n_splits": 5,
+        "classes": {
+            "-1.0": 0,
+            "1.0": 1
+        }
+    },
+    "4": {
+        "name": "bupa",
+        "n_splits": 5,
+        "classes": {
+            "1": 0,
+            "2": 1
+        }
+    },
+    "5": {
+        "name": "ecoli",
+        "n_splits": 5,
+        "classes": {
+            "cp": 0,
+            "im": 1,
+            "imS": 2,
+            "imL": 3,
+            "imU": 4,
+            "om": 5,
+            "omL": 6,
+            "pp": 7
+        }
+    },
+    "6": {
+        "name": "glass",
+        "n_splits": 5,
+        "classes": {
+            "1": 0,
+            "2": 1,
+            "3": 2,
+            "4": 3,
+            "5": 4,
+            "6": 5,
+            "7": 6
+        }
+    },
+    "7": {
+        "name": "haberman",
+        "n_splits": 5,
+        "classes": {
+            "positive": 1,
+            "negative": 0
+        }
+    },
+    "8": {
+        "name": "hayes-roth",
+        "n_splits": 5,
+        "classes": {
+            "1": 0,
+            "2": 1,
+            "3": 2
+        }
+    },
+    "9": {
+        "name": "iris",
+        "n_splits": 5,
+        "classes": {
+            "Iris-setosa": 0,
+            "Iris-versicolor": 1,
+            "Iris-virginica": 2
+        }
+    },
+    "10": {
+        "name": "led7digit",
+        "n_splits": 5,
+        "classes": {
+            "0": 0,
+            "1": 1,
+            "2": 2,
+            "3": 3,
+            "4": 4,
+            "5": 5,
+            "6": 6,
+            "7": 7,
+            "8": 8,
+            "9": 9
+        }
+    },
+    "11": {
+        "name": "newthyroid",
+        "n_splits": 5,
+        "classes": {
+            "3": 0,
+            "2": 1,
+            "1": 2
+        }
+    },
+    "12": {
+        "name": "phoneme",
+        "n_splits": 5,
+        "classes": {
+            "0": 0,
+            "1": 1
+        }
+    },
+    "13": {
+        "name": "pima",
+        "n_splits": 5,
+        "classes": {
+            "positive": 1,
+            "negative": 0
+        }
+    },
+    "14": {
+        "name": "titanic",
+        "n_splits": 5,
+        "classes": {
+            "-1.0": 0,
+            "1.0": 1
+        }
+    },
+    "15": {
+        "name": "yeast",
+        "n_splits": 5,
+        "classes": {
+            "MIT": 0,
+            "NUC": 1,
+            "CYT": 2,
+            "ME1": 3,
+            "ME2": 4,
+            "ME3": 5,
+            "EXC": 6,
+            "VAC": 7,
+            "POX": 8,
+            "ERL": 9
+        }
+    }
+}

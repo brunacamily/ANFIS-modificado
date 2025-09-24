@@ -1,0 +1,23 @@
+
+=== Dataset: led7digit | Abordagem: mycin | Lambda: 101.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 5855.860967202709
+    Acurácia: 0.0700 | Tempo treino: 29503.20s
+  Fold 2/5...
+Epoch: [1] current error: 5990.2069089215165
+    Acurácia: 0.0700 | Tempo treino: 5102.10s
+  Fold 3/5...
+Epoch: [1] current error: 5872.159033128844
+    Acurácia: 0.1400 | Tempo treino: 5033.36s
+  Fold 4/5...
+Epoch: [1] current error: 5858.069728918226
+    Acurácia: 0.1100 | Tempo treino: 7849.56s
+  Fold 5/5...
+Epoch: [1] current error: 5970.032880425394
+    Acurácia: 0.1300 | Tempo treino: 15535.85s
+
+
+Dataset: led7digit | Abordagem: mycin | Lambda: 101.0 | Média final: 0.1040
+
+--- Tempo total: 63025.43s ---
+Resultados salvos em 'mistas/planilhas/led7digit_101.0.xlsx'.

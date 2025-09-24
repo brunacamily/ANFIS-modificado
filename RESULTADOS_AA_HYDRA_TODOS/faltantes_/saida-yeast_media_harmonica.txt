@@ -1,0 +1,23 @@
+
+=== Dataset: yeast | Abordagem: media_harmonica ===
+  Fold 1/5...
+Epoch: [1] current error: 11294.032957189487
+    Acurácia: 0.3300 | Tempo treino: 74811.10s
+  Fold 2/5...
+Epoch: [1] current error: 11360.184137411869
+    Acurácia: 0.3199 | Tempo treino: 62626.51s
+  Fold 3/5...
+Epoch: [1] current error: 11366.648702304545
+    Acurácia: 0.3367 | Tempo treino: 42479.90s
+  Fold 4/5...
+Epoch: [1] current error: 11332.064509474496
+    Acurácia: 0.3367 | Tempo treino: 40376.66s
+  Fold 5/5...
+Epoch: [1] current error: 11400.491705096236
+    Acurácia: 0.3649 | Tempo treino: 43059.68s
+
+
+Dataset: yeast | Abordagem: media_harmonica | Média final: 0.3376
+
+--- Tempo total: 263355.17s ---
+Resultados salvos em 'faltantes/planilhas/yeast.xlsx'.

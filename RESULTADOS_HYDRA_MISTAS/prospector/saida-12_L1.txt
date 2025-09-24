@@ -1,0 +1,23 @@
+
+=== Dataset: phoneme | Abordagem: prospector | Lambda: 1.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 2257.2041059526946
+    Acurácia: 0.8113 | Tempo treino: 31756.85s
+  Fold 2/5...
+Epoch: [1] current error: 2257.6693416807893
+    Acurácia: 0.7956 | Tempo treino: 5861.33s
+  Fold 3/5...
+Epoch: [1] current error: 2257.3174867328044
+    Acurácia: 0.8002 | Tempo treino: 9188.86s
+  Fold 4/5...
+Epoch: [1] current error: 2249.1314486216907
+    Acurácia: 0.8168 | Tempo treino: 17313.98s
+  Fold 5/5...
+Epoch: [1] current error: 2259.8470086206653
+    Acurácia: 0.8000 | Tempo treino: 2726.85s
+
+
+Dataset: phoneme | Abordagem: prospector | Lambda: 1.0 | Média final: 0.8048
+
+--- Tempo total: 66852.52s ---
+Resultados salvos em 'mistas/planilhas/phoneme_1.0.xlsx'.

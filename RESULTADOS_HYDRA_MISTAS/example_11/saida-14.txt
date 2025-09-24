@@ -1,0 +1,23 @@
+
+=== Dataset: titanic | Abordagem: example_11 ===
+  Fold 1/5...
+Epoch: [1] current error: 1116.5884796677246
+    Acurácia: 0.7619 | Tempo treino: 1025.79s
+  Fold 2/5...
+Epoch: [1] current error: 1111.98257089435
+    Acurácia: 0.7841 | Tempo treino: 665.23s
+  Fold 3/5...
+Epoch: [1] current error: 1107.5863753145927
+    Acurácia: 0.8091 | Tempo treino: 835.31s
+  Fold 4/5...
+Epoch: [1] current error: 1112.1621917298069
+    Acurácia: 0.7864 | Tempo treino: 868.43s
+  Fold 5/5...
+Epoch: [1] current error: 1113.0957889212627
+    Acurácia: 0.7818 | Tempo treino: 921.36s
+
+
+Dataset: titanic | Abordagem: example_11 | Média final: 0.7847
+
+--- Tempo total: 4319.18s ---
+Resultados salvos em 'faltantes/planilhas/titanic.xlsx'.

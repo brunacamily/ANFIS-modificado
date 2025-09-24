@@ -1,0 +1,23 @@
+
+=== Dataset: appendicitis | Abordagem: mycin | Lambda: 101.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 12.574531894724498
+    Acurácia: 0.9545 | Tempo treino: 12022.78s
+  Fold 2/5...
+Epoch: [1] current error: 12.373258329025793
+    Acurácia: 0.9524 | Tempo treino: 9035.13s
+  Fold 3/5...
+Epoch: [1] current error: 13.362969499846393
+    Acurácia: 0.9048 | Tempo treino: 5883.81s
+  Fold 4/5...
+Epoch: [1] current error: 11.977148653942336
+    Acurácia: 0.9048 | Tempo treino: 2142.43s
+  Fold 5/5...
+Epoch: [1] current error: 12.348534029571386
+    Acurácia: 0.9524 | Tempo treino: 1773.50s
+
+
+Dataset: appendicitis | Abordagem: mycin | Lambda: 101.0 | Média final: 0.9338
+
+--- Tempo total: 30859.13s ---
+Resultados salvos em 'mistas/planilhas/appendicitis_101.0.xlsx'.

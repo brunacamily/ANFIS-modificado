@@ -1,0 +1,23 @@
+
+=== Dataset: phoneme | Abordagem: example_11 ===
+  Fold 1/5...
+Epoch: [1] current error: 2511.703401600803
+    Acurácia: 0.7447 | Tempo treino: 13389.43s
+  Fold 2/5...
+Epoch: [1] current error: 2519.4766452617696
+    Acurácia: 0.7419 | Tempo treino: 3573.01s
+  Fold 3/5...
+Epoch: [1] current error: 2513.571362380686
+    Acurácia: 0.7595 | Tempo treino: 3325.08s
+  Fold 4/5...
+Epoch: [1] current error: 2507.050218454169
+    Acurácia: 0.7586 | Tempo treino: 9421.13s
+  Fold 5/5...
+Epoch: [1] current error: 2514.15476799063
+    Acurácia: 0.7519 | Tempo treino: 3132.60s
+
+
+Dataset: phoneme | Abordagem: example_11 | Média final: 0.7513
+
+--- Tempo total: 32843.23s ---
+Resultados salvos em 'faltantes/planilhas/phoneme.xlsx'.

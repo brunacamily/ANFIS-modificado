@@ -1,0 +1,23 @@
+
+=== Dataset: yeast | Abordagem: example_10 ===
+  Fold 1/5...
+Epoch: [1] current error: 11676.39655359805
+    Acurácia: 0.3333 | Tempo treino: 40983.21s
+  Fold 2/5...
+Epoch: [1] current error: 11707.672942690382
+    Acurácia: 0.2997 | Tempo treino: 34111.64s
+  Fold 3/5...
+Epoch: [1] current error: 11708.638610621812
+    Acurácia: 0.3064 | Tempo treino: 24628.74s
+  Fold 4/5...
+Epoch: [1] current error: 11688.117344935657
+    Acurácia: 0.3199 | Tempo treino: 22478.24s
+  Fold 5/5...
+Epoch: [1] current error: 11751.4649528693
+    Acurácia: 0.3446 | Tempo treino: 22462.95s
+
+
+Dataset: yeast | Abordagem: example_10 | Média final: 0.3208
+
+--- Tempo total: 144665.57s ---
+Resultados salvos em 'faltantes/planilhas/yeast.xlsx'.

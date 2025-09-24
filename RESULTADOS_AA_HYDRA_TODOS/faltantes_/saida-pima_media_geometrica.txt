@@ -1,0 +1,23 @@
+
+=== Dataset: pima | Abordagem: media_geometrica ===
+  Fold 1/5...
+Epoch: [1] current error: 348.9205410414827
+    Acurácia: 0.8117 | Tempo treino: 38360.65s
+  Fold 2/5...
+Epoch: [1] current error: 349.9233102601647
+    Acurácia: 0.7922 | Tempo treino: 24253.96s
+  Fold 3/5...
+Epoch: [1] current error: 348.82121677358526
+    Acurácia: 0.8052 | Tempo treino: 45758.96s
+  Fold 4/5...
+Epoch: [1] current error: 350.87567257871274
+    Acurácia: 0.7712 | Tempo treino: 26415.59s
+  Fold 5/5...
+Epoch: [1] current error: 349.46347252362835
+    Acurácia: 0.8105 | Tempo treino: 33502.39s
+
+
+Dataset: pima | Abordagem: media_geometrica | Média final: 0.7982
+
+--- Tempo total: 168292.85s ---
+Resultados salvos em 'faltantes/planilhas/pima.xlsx'.

@@ -1,0 +1,23 @@
+
+=== Dataset: pima | Abordagem: prospector | Lambda: 0.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 285.8209181310167
+    Acurácia: 0.8766 | Tempo treino: 56949.86s
+  Fold 2/5...
+Epoch: [1] current error: 286.7641133994725
+    Acurácia: 0.8312 | Tempo treino: 31731.86s
+  Fold 3/5...
+Epoch: [1] current error: 284.7272451084435
+    Acurácia: 0.8701 | Tempo treino: 33746.71s
+  Fold 4/5...
+Epoch: [1] current error: 286.202508307452
+    Acurácia: 0.8366 | Tempo treino: 35897.97s
+  Fold 5/5...
+Epoch: [1] current error: 282.9189063083596
+    Acurácia: 0.8431 | Tempo treino: 19345.20s
+
+
+Dataset: pima | Abordagem: prospector | Lambda: 0.0 | Média final: 0.8515
+
+--- Tempo total: 177674.13s ---
+Resultados salvos em 'mistas/planilhas/pima_0.0.xlsx'.

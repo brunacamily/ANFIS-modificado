@@ -1,0 +1,95 @@
+
+=== Dataset: yeast | Abordagem: t_norma_AA | Lambda: 100.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 11730.962249949982
+    Acurácia: 0.3367 | Tempo treino: 49788.74s
+  Fold 2/5...
+Epoch: [1] current error: 11769.59945135492
+    Acurácia: 0.3030 | Tempo treino: 39330.59s
+  Fold 3/5...
+Epoch: [1] current error: 11771.04047254633
+    Acurácia: 0.3098 | Tempo treino: 28466.00s
+  Fold 4/5...
+Epoch: [1] current error: 11744.184065928039
+    Acurácia: 0.3199 | Tempo treino: 26239.30s
+  Fold 5/5...
+Epoch: [1] current error: 11817.303921575955
+    Acurácia: 0.3412 | Tempo treino: 25977.58s
+
+
+Dataset: yeast | Abordagem: t_norma_AA | Lambda: 100.0 | Média final: 0.3221
+
+--- Tempo total: 169803.14s ---
+Resultados salvos em 'AA/planilhas/yeast_100.0.xlsx'.
+
+=== Dataset: yeast | Abordagem: mycin | Lambda: 100.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: yeast | Abordagem: mycin | Lambda: 100.0 | Média final: 0.0000
+
+--- Tempo total: 1.51s ---
+Resultados salvos em 'AA/planilhas/yeast_100.0.xlsx'.
+
+=== Dataset: yeast | Abordagem: prospector | Lambda: 100.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: yeast | Abordagem: prospector | Lambda: 100.0 | Média final: 0.0000
+
+--- Tempo total: 1.18s ---
+Resultados salvos em 'AA/planilhas/yeast_100.0.xlsx'.
+
+=== Dataset: yeast | Abordagem: mycin | Lambda: 100.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: yeast | Abordagem: mycin | Lambda: 100.0 | Média final: 0.0000
+
+--- Tempo total: 1.32s ---
+Resultados salvos em 'mistas/planilhas/yeast_100.0.xlsx'.
+
+=== Dataset: yeast | Abordagem: prospector | Lambda: 100.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: yeast | Abordagem: prospector | Lambda: 100.0 | Média final: 0.0000
+
+--- Tempo total: 0.75s ---
+Resultados salvos em 'mistas/planilhas/yeast_100.0.xlsx'.

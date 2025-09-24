@@ -1,0 +1,23 @@
+
+=== Dataset: iris | Abordagem: prospector | Lambda: 100.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 12.31638547037576
+    Acurácia: 1.0000 | Tempo treino: 372.13s
+  Fold 2/5...
+Epoch: [1] current error: 12.622031372283505
+    Acurácia: 0.9667 | Tempo treino: 472.33s
+  Fold 3/5...
+Epoch: [1] current error: 12.493884278156049
+    Acurácia: 1.0000 | Tempo treino: 567.76s
+  Fold 4/5...
+Epoch: [1] current error: 12.80882371087209
+    Acurácia: 0.9667 | Tempo treino: 575.65s
+  Fold 5/5...
+Epoch: [1] current error: 12.850203850137081
+    Acurácia: 0.9667 | Tempo treino: 534.43s
+
+
+Dataset: iris | Abordagem: prospector | Lambda: 100.0 | Média final: 0.9800
+
+--- Tempo total: 2526.50s ---
+Resultados salvos em 'mistas/planilhas/iris_100.0.xlsx'.

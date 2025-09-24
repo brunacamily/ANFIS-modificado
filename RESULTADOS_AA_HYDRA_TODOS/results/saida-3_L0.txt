@@ -1,0 +1,95 @@
+
+=== Dataset: banana | Abordagem: t_norma_AA | Lambda: 0.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 4162.072947258922
+    Acurácia: 0.5575 | Tempo treino: 960.10s
+  Fold 2/5...
+Epoch: [1] current error: 4164.849053670505
+    Acurácia: 0.5594 | Tempo treino: 984.92s
+  Fold 3/5...
+Epoch: [1] current error: 4165.348455223428
+    Acurácia: 0.5660 | Tempo treino: 1080.41s
+  Fold 4/5...
+Epoch: [1] current error: 4161.94457428059
+    Acurácia: 0.5717 | Tempo treino: 1120.91s
+  Fold 5/5...
+Epoch: [1] current error: 4163.639529442273
+    Acurácia: 0.5613 | Tempo treino: 1041.95s
+
+
+Dataset: banana | Abordagem: t_norma_AA | Lambda: 0.0 | Média final: 0.5632
+
+--- Tempo total: 5196.93s ---
+Resultados salvos em 'AA/planilhas/banana_0.0.xlsx'.
+
+=== Dataset: banana | Abordagem: prospector | Lambda: 0.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: banana | Abordagem: prospector | Lambda: 0.0 | Média final: 0.0000
+
+--- Tempo total: 1.21s ---
+Resultados salvos em 'AA/planilhas/banana_0.0.xlsx'.
+
+=== Dataset: banana | Abordagem: mycin | Lambda: 0.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: banana | Abordagem: mycin | Lambda: 0.0 | Média final: 0.0000
+
+--- Tempo total: 1.26s ---
+Resultados salvos em 'AA/planilhas/banana_0.0.xlsx'.
+
+=== Dataset: banana | Abordagem: prospector | Lambda: 0.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: banana | Abordagem: prospector | Lambda: 0.0 | Média final: 0.0000
+
+--- Tempo total: 1.66s ---
+Resultados salvos em 'mistas/planilhas/banana_0.0.xlsx'.
+
+=== Dataset: banana | Abordagem: mycin | Lambda: 0.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: banana | Abordagem: mycin | Lambda: 0.0 | Média final: 0.0000
+
+--- Tempo total: 1.02s ---
+Resultados salvos em 'mistas/planilhas/banana_0.0.xlsx'.

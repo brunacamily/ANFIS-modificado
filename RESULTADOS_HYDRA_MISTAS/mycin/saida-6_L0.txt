@@ -1,0 +1,23 @@
+
+=== Dataset: glass | Abordagem: mycin | Lambda: 0.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 296.50895497652715
+    Acurácia: 0.5349 | Tempo treino: 43275.44s
+  Fold 2/5...
+Epoch: [1] current error: 299.86399140649985
+    Acurácia: 0.4186 | Tempo treino: 27327.24s
+  Fold 3/5...
+Epoch: [1] current error: 306.62519728060306
+    Acurácia: 0.5116 | Tempo treino: 37844.28s
+  Fold 4/5...
+Epoch: [1] current error: 294.4491697788973
+    Acurácia: 0.5814 | Tempo treino: 28761.54s
+  Fold 5/5...
+Epoch: [1] current error: 294.9478479371912
+    Acurácia: 0.6429 | Tempo treino: 33517.91s
+
+
+Dataset: glass | Abordagem: mycin | Lambda: 0.0 | Média final: 0.5379
+
+--- Tempo total: 170728.30s ---
+Resultados salvos em 'mistas/planilhas/glass_0.0.xlsx'.

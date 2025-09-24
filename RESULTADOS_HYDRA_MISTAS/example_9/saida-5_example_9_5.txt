@@ -1,0 +1,23 @@
+
+=== Dataset: ecoli | Abordagem: example_9_5 ===
+  Fold 1/5...
+Epoch: [1] current error: 2647.2452160966595
+    Acurácia: 0.4118 | Tempo treino: 21279.58s
+  Fold 2/5...
+Epoch: [1] current error: 2617.8180753524834
+    Acurácia: 0.5075 | Tempo treino: 3137.58s
+  Fold 3/5...
+Epoch: [1] current error: 2676.0082594854985
+    Acurácia: 0.2687 | Tempo treino: 2717.82s
+  Fold 4/5...
+Epoch: [1] current error: 2610.750742979525
+    Acurácia: 0.3582 | Tempo treino: 2629.20s
+  Fold 5/5...
+Epoch: [1] current error: 2680.8097799471993
+    Acurácia: 0.3881 | Tempo treino: 2592.37s
+
+
+Dataset: ecoli | Abordagem: example_9_5 | Média final: 0.3868
+
+--- Tempo total: 32357.06s ---
+Resultados salvos em 'faltantes/planilhas/ecoli.xlsx'.

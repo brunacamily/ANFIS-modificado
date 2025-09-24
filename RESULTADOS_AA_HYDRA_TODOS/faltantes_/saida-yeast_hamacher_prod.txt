@@ -1,0 +1,23 @@
+
+=== Dataset: yeast | Abordagem: hamacher_prod | Lambda: 0.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 11703.722437056213
+    Acurácia: 0.3367 | Tempo treino: 75389.24s
+  Fold 2/5...
+Epoch: [1] current error: 11743.350464558827
+    Acurácia: 0.3030 | Tempo treino: 62674.01s
+  Fold 3/5...
+Epoch: [1] current error: 11745.516422309764
+    Acurácia: 0.3165 | Tempo treino: 41822.98s
+  Fold 4/5...
+Epoch: [1] current error: 11718.178062340598
+    Acurácia: 0.3232 | Tempo treino: 40234.33s
+  Fold 5/5...
+Epoch: [1] current error: 11789.59465988577
+    Acurácia: 0.3412 | Tempo treino: 42327.16s
+
+
+Dataset: yeast | Abordagem: hamacher_prod | Lambda: 0.0 | Média final: 0.3241
+
+--- Tempo total: 262449.38s ---
+Resultados salvos em 'faltantes/planilhas/yeast_0.0.xlsx'.

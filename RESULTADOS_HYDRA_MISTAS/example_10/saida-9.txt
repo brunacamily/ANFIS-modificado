@@ -1,0 +1,23 @@
+
+=== Dataset: iris | Abordagem: example_10 ===
+  Fold 1/5...
+Epoch: [1] current error: 19.515375551080965
+    Acurácia: 1.0000 | Tempo treino: 144.80s
+  Fold 2/5...
+Epoch: [1] current error: 19.838262860559357
+    Acurácia: 1.0000 | Tempo treino: 239.39s
+  Fold 3/5...
+Epoch: [1] current error: 19.98721281515897
+    Acurácia: 1.0000 | Tempo treino: 262.35s
+  Fold 4/5...
+Epoch: [1] current error: 20.490884550552373
+    Acurácia: 0.9333 | Tempo treino: 237.08s
+  Fold 5/5...
+Epoch: [1] current error: 20.046692942098293
+    Acurácia: 0.9667 | Tempo treino: 246.66s
+
+
+Dataset: iris | Abordagem: example_10 | Média final: 0.9800
+
+--- Tempo total: 1132.59s ---
+Resultados salvos em 'faltantes/planilhas/iris.xlsx'.

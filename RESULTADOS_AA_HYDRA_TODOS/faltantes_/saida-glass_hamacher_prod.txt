@@ -1,0 +1,23 @@
+
+=== Dataset: glass | Abordagem: hamacher_prod | Lambda: 0.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 748.5408687002334
+    Acurácia: 0.4884 | Tempo treino: 43770.73s
+  Fold 2/5...
+Epoch: [1] current error: 764.5008033662149
+    Acurácia: 0.4186 | Tempo treino: 21317.50s
+  Fold 3/5...
+Epoch: [1] current error: 787.8798338617046
+    Acurácia: 0.5349 | Tempo treino: 38426.40s
+  Fold 4/5...
+Epoch: [1] current error: 783.4702229493726
+    Acurácia: 0.4419 | Tempo treino: 20207.04s
+  Fold 5/5...
+Epoch: [1] current error: 752.3917118838128
+    Acurácia: 0.4048 | Tempo treino: 40152.74s
+
+
+Dataset: glass | Abordagem: hamacher_prod | Lambda: 0.0 | Média final: 0.4577
+
+--- Tempo total: 163874.89s ---
+Resultados salvos em 'faltantes/planilhas/glass_0.0.xlsx'.

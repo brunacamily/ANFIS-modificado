@@ -1,0 +1,23 @@
+
+=== Dataset: pima | Abordagem: media_quadratica ===
+  Fold 1/5...
+Epoch: [1] current error: 372.4684871798354
+    Acurácia: 0.7857 | Tempo treino: 46632.57s
+  Fold 2/5...
+Epoch: [1] current error: 374.151254017171
+    Acurácia: 0.7792 | Tempo treino: 28232.87s
+  Fold 3/5...
+Epoch: [1] current error: 372.60019247451976
+    Acurácia: 0.8182 | Tempo treino: 41118.06s
+  Fold 4/5...
+Epoch: [1] current error: 375.7070529818132
+    Acurácia: 0.7647 | Tempo treino: 25653.60s
+  Fold 5/5...
+Epoch: [1] current error: 374.1363214935403
+    Acurácia: 0.7582 | Tempo treino: 29322.14s
+
+
+Dataset: pima | Abordagem: media_quadratica | Média final: 0.7812
+
+--- Tempo total: 170960.01s ---
+Resultados salvos em 'faltantes/planilhas/pima.xlsx'.

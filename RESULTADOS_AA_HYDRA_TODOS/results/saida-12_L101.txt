@@ -1,0 +1,95 @@
+
+=== Dataset: phoneme | Abordagem: t_norma_AA | Lambda: 101.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 2694.5902259158615
+    Acurácia: 0.7567 | Tempo treino: 16769.65s
+  Fold 2/5...
+Epoch: [1] current error: 2698.8105534939846
+    Acurácia: 0.7447 | Tempo treino: 3620.76s
+  Fold 3/5...
+Epoch: [1] current error: 2695.092029771525
+    Acurácia: 0.7549 | Tempo treino: 3291.51s
+  Fold 4/5...
+Epoch: [1] current error: 2684.0569159683087
+    Acurácia: 0.7530 | Tempo treino: 10277.14s
+  Fold 5/5...
+Epoch: [1] current error: 2692.679607041612
+    Acurácia: 0.7491 | Tempo treino: 3740.74s
+
+
+Dataset: phoneme | Abordagem: t_norma_AA | Lambda: 101.0 | Média final: 0.7517
+
+--- Tempo total: 37702.47s ---
+Resultados salvos em 'AA/planilhas/phoneme_101.0.xlsx'.
+
+=== Dataset: phoneme | Abordagem: mycin | Lambda: 101.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: phoneme | Abordagem: mycin | Lambda: 101.0 | Média final: 0.0000
+
+--- Tempo total: 2.92s ---
+Resultados salvos em 'AA/planilhas/phoneme_101.0.xlsx'.
+
+=== Dataset: phoneme | Abordagem: prospector | Lambda: 101.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: phoneme | Abordagem: prospector | Lambda: 101.0 | Média final: 0.0000
+
+--- Tempo total: 1.66s ---
+Resultados salvos em 'AA/planilhas/phoneme_101.0.xlsx'.
+
+=== Dataset: phoneme | Abordagem: mycin | Lambda: 101.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: phoneme | Abordagem: mycin | Lambda: 101.0 | Média final: 0.0000
+
+--- Tempo total: 2.36s ---
+Resultados salvos em 'mistas/planilhas/phoneme_101.0.xlsx'.
+
+=== Dataset: phoneme | Abordagem: prospector | Lambda: 101.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: phoneme | Abordagem: prospector | Lambda: 101.0 | Média final: 0.0000
+
+--- Tempo total: 2.01s ---
+Resultados salvos em 'mistas/planilhas/phoneme_101.0.xlsx'.

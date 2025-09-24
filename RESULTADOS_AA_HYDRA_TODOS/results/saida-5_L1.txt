@@ -1,0 +1,95 @@
+
+=== Dataset: ecoli | Abordagem: t_norma_AA | Lambda: 1.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 3991.401331787736
+    Acurácia: 0.2206 | Tempo treino: 13883.46s
+  Fold 2/5...
+Epoch: [1] current error: 3922.3630328259233
+    Acurácia: 0.3433 | Tempo treino: 2972.47s
+  Fold 3/5...
+Epoch: [1] current error: 4006.718937088578
+    Acurácia: 0.2239 | Tempo treino: 1884.41s
+  Fold 4/5...
+Epoch: [1] current error: 3968.423688659728
+    Acurácia: 0.2090 | Tempo treino: 2089.51s
+  Fold 5/5...
+Epoch: [1] current error: 4036.3246591231064
+    Acurácia: 0.3134 | Tempo treino: 2151.96s
+
+
+Dataset: ecoli | Abordagem: t_norma_AA | Lambda: 1.0 | Média final: 0.2620
+
+--- Tempo total: 22982.17s ---
+Resultados salvos em 'AA/planilhas/ecoli_1.0.xlsx'.
+
+=== Dataset: ecoli | Abordagem: mycin | Lambda: 1.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: ecoli | Abordagem: mycin | Lambda: 1.0 | Média final: 0.0000
+
+--- Tempo total: 0.33s ---
+Resultados salvos em 'AA/planilhas/ecoli_1.0.xlsx'.
+
+=== Dataset: ecoli | Abordagem: prospector | Lambda: 1.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: ecoli | Abordagem: prospector | Lambda: 1.0 | Média final: 0.0000
+
+--- Tempo total: 0.37s ---
+Resultados salvos em 'AA/planilhas/ecoli_1.0.xlsx'.
+
+=== Dataset: ecoli | Abordagem: mycin | Lambda: 1.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: ecoli | Abordagem: mycin | Lambda: 1.0 | Média final: 0.0000
+
+--- Tempo total: 0.35s ---
+Resultados salvos em 'mistas/planilhas/ecoli_1.0.xlsx'.
+
+=== Dataset: ecoli | Abordagem: prospector | Lambda: 1.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: ecoli | Abordagem: prospector | Lambda: 1.0 | Média final: 0.0000
+
+--- Tempo total: 0.44s ---
+Resultados salvos em 'mistas/planilhas/ecoli_1.0.xlsx'.

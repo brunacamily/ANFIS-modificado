@@ -1,0 +1,23 @@
+
+=== Dataset: glass | Abordagem: prospector | Lambda: 101.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 362.6987839999331
+    Acurácia: 0.7674 | Tempo treino: 42085.64s
+  Fold 2/5...
+Epoch: [1] current error: 370.246760144227
+    Acurácia: 0.6512 | Tempo treino: 26677.81s
+  Fold 3/5...
+Epoch: [1] current error: 393.39453063144083
+    Acurácia: 0.6744 | Tempo treino: 35931.18s
+  Fold 4/5...
+Epoch: [1] current error: 370.2464735493016
+    Acurácia: 0.6279 | Tempo treino: 26752.43s
+  Fold 5/5...
+Epoch: [1] current error: 368.5933173044307
+    Acurácia: 0.6667 | Tempo treino: 37669.91s
+
+
+Dataset: glass | Abordagem: prospector | Lambda: 101.0 | Média final: 0.6775
+
+--- Tempo total: 169117.62s ---
+Resultados salvos em 'mistas/planilhas/glass_101.0.xlsx'.

@@ -1,0 +1,23 @@
+
+=== Dataset: appendicitis | Abordagem: dombi ===
+  Fold 1/5...
+Epoch: [1] current error: 34.95463352444146
+    Acurácia: 0.8182 | Tempo treino: 9241.18s
+  Fold 2/5...
+Epoch: [1] current error: 35.84061082479205
+    Acurácia: 0.8571 | Tempo treino: 7190.85s
+  Fold 3/5...
+Epoch: [1] current error: 34.36485933604419
+    Acurácia: 0.9048 | Tempo treino: 4189.04s
+  Fold 4/5...
+Epoch: [1] current error: 34.43188592518638
+    Acurácia: 0.9524 | Tempo treino: 1190.22s
+  Fold 5/5...
+Epoch: [1] current error: 35.060214196768996
+    Acurácia: 0.8095 | Tempo treino: 1134.82s
+
+
+Dataset: appendicitis | Abordagem: dombi | Média final: 0.8684
+
+--- Tempo total: 22947.43s ---
+Resultados salvos em 'faltantes/planilhas/appendicitis.xlsx'.

@@ -1,0 +1,95 @@
+
+=== Dataset: led7digit | Abordagem: t_norma_AA | Lambda: 0.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 9855.613343759953
+    Acurácia: 0.0900 | Tempo treino: 16299.40s
+  Fold 2/5...
+Epoch: [1] current error: 9957.321758860819
+    Acurácia: 0.0900 | Tempo treino: 3261.37s
+  Fold 3/5...
+Epoch: [1] current error: 9923.361722400034
+    Acurácia: 0.1100 | Tempo treino: 2937.57s
+  Fold 4/5...
+Epoch: [1] current error: 9881.380889967735
+    Acurácia: 0.1000 | Tempo treino: 5610.42s
+  Fold 5/5...
+Epoch: [1] current error: 9907.35848320051
+    Acurácia: 0.1600 | Tempo treino: 7729.43s
+
+
+Dataset: led7digit | Abordagem: t_norma_AA | Lambda: 0.0 | Média final: 0.1100
+
+--- Tempo total: 35838.64s ---
+Resultados salvos em 'AA/planilhas/led7digit_0.0.xlsx'.
+
+=== Dataset: led7digit | Abordagem: mycin | Lambda: 0.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: led7digit | Abordagem: mycin | Lambda: 0.0 | Média final: 0.0000
+
+--- Tempo total: 0.57s ---
+Resultados salvos em 'AA/planilhas/led7digit_0.0.xlsx'.
+
+=== Dataset: led7digit | Abordagem: prospector | Lambda: 0.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: led7digit | Abordagem: prospector | Lambda: 0.0 | Média final: 0.0000
+
+--- Tempo total: 0.39s ---
+Resultados salvos em 'AA/planilhas/led7digit_0.0.xlsx'.
+
+=== Dataset: led7digit | Abordagem: mycin | Lambda: 0.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: led7digit | Abordagem: mycin | Lambda: 0.0 | Média final: 0.0000
+
+--- Tempo total: 0.51s ---
+Resultados salvos em 'mistas/planilhas/led7digit_0.0.xlsx'.
+
+=== Dataset: led7digit | Abordagem: prospector | Lambda: 0.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: led7digit | Abordagem: prospector | Lambda: 0.0 | Média final: 0.0000
+
+--- Tempo total: 0.47s ---
+Resultados salvos em 'mistas/planilhas/led7digit_0.0.xlsx'.

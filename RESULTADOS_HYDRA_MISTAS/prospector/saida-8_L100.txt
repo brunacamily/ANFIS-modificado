@@ -1,0 +1,23 @@
+
+=== Dataset: hayes-roth | Abordagem: prospector | Lambda: 100.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 81.18642353010213
+    Acurácia: 0.7407 | Tempo treino: 303.78s
+  Fold 2/5...
+Epoch: [1] current error: 82.61606446832575
+    Acurácia: 0.8148 | Tempo treino: 506.52s
+  Fold 3/5...
+Epoch: [1] current error: 83.20580327073858
+    Acurácia: 0.8077 | Tempo treino: 541.94s
+  Fold 4/5...
+Epoch: [1] current error: 81.03658809428205
+    Acurácia: 0.8077 | Tempo treino: 577.93s
+  Fold 5/5...
+Epoch: [1] current error: 81.11620236754347
+    Acurácia: 0.8462 | Tempo treino: 517.79s
+
+
+Dataset: hayes-roth | Abordagem: prospector | Lambda: 100.0 | Média final: 0.8034
+
+--- Tempo total: 2453.90s ---
+Resultados salvos em 'mistas/planilhas/hayes-roth_100.0.xlsx'.

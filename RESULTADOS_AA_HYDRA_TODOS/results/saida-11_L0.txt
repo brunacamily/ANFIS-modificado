@@ -1,0 +1,95 @@
+
+=== Dataset: newthyroid | Abordagem: t_norma_AA | Lambda: 0.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 195.05639393976588
+    Acurácia: 0.7674 | Tempo treino: 1340.22s
+  Fold 2/5...
+Epoch: [1] current error: 193.07968919898042
+    Acurácia: 0.8372 | Tempo treino: 1146.96s
+  Fold 3/5...
+Epoch: [1] current error: 195.18918878824843
+    Acurácia: 0.8372 | Tempo treino: 1274.93s
+  Fold 4/5...
+Epoch: [1] current error: 191.493252521211
+    Acurácia: 0.8372 | Tempo treino: 1208.80s
+  Fold 5/5...
+Epoch: [1] current error: 194.9555046030387
+    Acurácia: 0.7907 | Tempo treino: 1340.77s
+
+
+Dataset: newthyroid | Abordagem: t_norma_AA | Lambda: 0.0 | Média final: 0.8140
+
+--- Tempo total: 6314.12s ---
+Resultados salvos em 'AA/planilhas/newthyroid_0.0.xlsx'.
+
+=== Dataset: newthyroid | Abordagem: mycin | Lambda: 0.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: newthyroid | Abordagem: mycin | Lambda: 0.0 | Média final: 0.0000
+
+--- Tempo total: 0.55s ---
+Resultados salvos em 'AA/planilhas/newthyroid_0.0.xlsx'.
+
+=== Dataset: newthyroid | Abordagem: prospector | Lambda: 0.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: newthyroid | Abordagem: prospector | Lambda: 0.0 | Média final: 0.0000
+
+--- Tempo total: 0.39s ---
+Resultados salvos em 'AA/planilhas/newthyroid_0.0.xlsx'.
+
+=== Dataset: newthyroid | Abordagem: mycin | Lambda: 0.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: newthyroid | Abordagem: mycin | Lambda: 0.0 | Média final: 0.0000
+
+--- Tempo total: 0.51s ---
+Resultados salvos em 'mistas/planilhas/newthyroid_0.0.xlsx'.
+
+=== Dataset: newthyroid | Abordagem: prospector | Lambda: 0.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: newthyroid | Abordagem: prospector | Lambda: 0.0 | Média final: 0.0000
+
+--- Tempo total: 0.32s ---
+Resultados salvos em 'mistas/planilhas/newthyroid_0.0.xlsx'.

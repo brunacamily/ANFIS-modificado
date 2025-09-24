@@ -1,0 +1,23 @@
+
+=== Dataset: yeast | Abordagem: media_geometrica ===
+  Fold 1/5...
+Epoch: [1] current error: 9765.075326466555
+    Acurácia: 0.3737 | Tempo treino: 74678.80s
+  Fold 2/5...
+Epoch: [1] current error: 9819.86669739871
+    Acurácia: 0.3131 | Tempo treino: 62881.66s
+  Fold 3/5...
+Epoch: [1] current error: 9802.10012025119
+    Acurácia: 0.3333 | Tempo treino: 42182.27s
+  Fold 4/5...
+Epoch: [1] current error: 9751.08166510366
+    Acurácia: 0.3636 | Tempo treino: 40053.26s
+  Fold 5/5...
+Epoch: [1] current error: 9851.960930151183
+    Acurácia: 0.4122 | Tempo treino: 42732.25s
+
+
+Dataset: yeast | Abordagem: media_geometrica | Média final: 0.3592
+
+--- Tempo total: 262529.26s ---
+Resultados salvos em 'faltantes/planilhas/yeast.xlsx'.

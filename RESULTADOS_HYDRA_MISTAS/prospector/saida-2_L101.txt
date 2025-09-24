@@ -1,0 +1,23 @@
+
+=== Dataset: balance | Abordagem: prospector | Lambda: 101.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 541.999533599567
+    Acurácia: 0.6400 | Tempo treino: 2159.35s
+  Fold 2/5...
+Epoch: [1] current error: 545.6226145169123
+    Acurácia: 0.5920 | Tempo treino: 1996.83s
+  Fold 3/5...
+Epoch: [1] current error: 539.012208143507
+    Acurácia: 0.6960 | Tempo treino: 2472.45s
+  Fold 4/5...
+Epoch: [1] current error: 539.5917184700486
+    Acurácia: 0.6480 | Tempo treino: 2517.52s
+  Fold 5/5...
+Epoch: [1] current error: 537.159484443725
+    Acurácia: 0.7120 | Tempo treino: 2481.86s
+
+
+Dataset: balance | Abordagem: prospector | Lambda: 101.0 | Média final: 0.6576
+
+--- Tempo total: 11634.14s ---
+Resultados salvos em 'mistas/planilhas/balance_101.0.xlsx'.

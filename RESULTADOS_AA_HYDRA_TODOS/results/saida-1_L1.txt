@@ -1,0 +1,95 @@
+
+=== Dataset: appendicitis | Abordagem: t_norma_AA | Lambda: 1.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 33.630964176450846
+    Acurácia: 0.8636 | Tempo treino: 6572.84s
+  Fold 2/5...
+Epoch: [1] current error: 34.11027491919613
+    Acurácia: 0.8571 | Tempo treino: 4662.54s
+  Fold 3/5...
+Epoch: [1] current error: 33.005941115945106
+    Acurácia: 0.9048 | Tempo treino: 3387.03s
+  Fold 4/5...
+Epoch: [1] current error: 33.112935876590285
+    Acurácia: 0.9524 | Tempo treino: 969.57s
+  Fold 5/5...
+Epoch: [1] current error: 33.550493911162135
+    Acurácia: 0.8095 | Tempo treino: 821.25s
+
+
+Dataset: appendicitis | Abordagem: t_norma_AA | Lambda: 1.0 | Média final: 0.8775
+
+--- Tempo total: 16414.05s ---
+Resultados salvos em 'AA/planilhas/appendicitis_1.0.xlsx'.
+
+=== Dataset: appendicitis | Abordagem: prospector | Lambda: 1.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: appendicitis | Abordagem: prospector | Lambda: 1.0 | Média final: 0.0000
+
+--- Tempo total: 0.57s ---
+Resultados salvos em 'AA/planilhas/appendicitis_1.0.xlsx'.
+
+=== Dataset: appendicitis | Abordagem: mycin | Lambda: 1.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: appendicitis | Abordagem: mycin | Lambda: 1.0 | Média final: 0.0000
+
+--- Tempo total: 0.26s ---
+Resultados salvos em 'AA/planilhas/appendicitis_1.0.xlsx'.
+
+=== Dataset: appendicitis | Abordagem: prospector | Lambda: 1.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: appendicitis | Abordagem: prospector | Lambda: 1.0 | Média final: 0.0000
+
+--- Tempo total: 0.31s ---
+Resultados salvos em 'mistas/planilhas/appendicitis_1.0.xlsx'.
+
+=== Dataset: appendicitis | Abordagem: mycin | Lambda: 1.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: appendicitis | Abordagem: mycin | Lambda: 1.0 | Média final: 0.0000
+
+--- Tempo total: 0.27s ---
+Resultados salvos em 'mistas/planilhas/appendicitis_1.0.xlsx'.

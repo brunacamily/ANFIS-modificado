@@ -1,0 +1,23 @@
+
+=== Dataset: phoneme | Abordagem: mycin | Lambda: 1.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 2249.496721376622
+    Acurácia: 0.8030 | Tempo treino: 31443.78s
+  Fold 2/5...
+Epoch: [1] current error: 2256.7347275460797
+    Acurácia: 0.7993 | Tempo treino: 5780.53s
+  Fold 3/5...
+Epoch: [1] current error: 2245.2856412442347
+    Acurácia: 0.8168 | Tempo treino: 5540.13s
+  Fold 4/5...
+Epoch: [1] current error: 2244.644970343331
+    Acurácia: 0.8057 | Tempo treino: 20423.05s
+  Fold 5/5...
+Epoch: [1] current error: 2249.0038661930857
+    Acurácia: 0.8046 | Tempo treino: 3201.08s
+
+
+Dataset: phoneme | Abordagem: mycin | Lambda: 1.0 | Média final: 0.8059
+
+--- Tempo total: 66391.13s ---
+Resultados salvos em 'mistas/planilhas/phoneme_1.0.xlsx'.

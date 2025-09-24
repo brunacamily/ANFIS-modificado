@@ -1,0 +1,23 @@
+
+=== Dataset: pima | Abordagem: example_9_1 ===
+  Fold 1/5...
+Epoch: [1] current error: 384.28166891579195
+    Acurácia: 0.7922 | Tempo treino: 43896.55s
+  Fold 2/5...
+Epoch: [1] current error: 386.1010461320584
+    Acurácia: 0.7662 | Tempo treino: 28561.15s
+  Fold 3/5...
+Epoch: [1] current error: 384.44291203059936
+    Acurácia: 0.8312 | Tempo treino: 35006.61s
+  Fold 4/5...
+Epoch: [1] current error: 388.61480079603285
+    Acurácia: 0.7647 | Tempo treino: 34397.91s
+  Fold 5/5...
+Epoch: [1] current error: 386.67362335761595
+    Acurácia: 0.7582 | Tempo treino: 23462.81s
+
+
+Dataset: pima | Abordagem: example_9_1 | Média final: 0.7825
+
+--- Tempo total: 165328.78s ---
+Resultados salvos em 'faltantes/planilhas/pima.xlsx'.

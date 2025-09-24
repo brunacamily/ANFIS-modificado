@@ -1,0 +1,23 @@
+
+=== Dataset: phoneme | Abordagem: sugeno_weber | Lambda: 0.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 2698.7566463190424
+    Acurácia: 0.7567 | Tempo treino: 35077.58s
+  Fold 2/5...
+Epoch: [1] current error: 2702.961238873666
+    Acurácia: 0.7456 | Tempo treino: 2786.07s
+  Fold 3/5...
+Epoch: [1] current error: 2699.141572296552
+    Acurácia: 0.7549 | Tempo treino: 4319.07s
+  Fold 4/5...
+Epoch: [1] current error: 2688.110948718107
+    Acurácia: 0.7521 | Tempo treino: 12611.84s
+  Fold 5/5...
+Epoch: [1] current error: 2696.8158231898137
+    Acurácia: 0.7500 | Tempo treino: 4816.71s
+
+
+Dataset: phoneme | Abordagem: sugeno_weber | Lambda: 0.0 | Média final: 0.7519
+
+--- Tempo total: 59613.55s ---
+Resultados salvos em 'faltantes/planilhas/phoneme_0.0.xlsx'.

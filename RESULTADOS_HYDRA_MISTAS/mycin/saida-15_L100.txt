@@ -1,0 +1,23 @@
+
+=== Dataset: yeast | Abordagem: mycin | Lambda: 100.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 9080.30462250245
+    Acurácia: 0.1178 | Tempo treino: 83183.95s
+  Fold 2/5...
+Epoch: [1] current error: 9146.49434211474
+    Acurácia: 0.1515 | Tempo treino: 65879.89s
+  Fold 3/5...
+Epoch: [1] current error: 9160.445394960809
+    Acurácia: 0.1481 | Tempo treino: 40784.18s
+  Fold 4/5...
+Epoch: [1] current error: 9075.521751367287
+    Acurácia: 0.1279 | Tempo treino: 35496.79s
+  Fold 5/5...
+Epoch: [1] current error: 9207.439728430954
+    Acurácia: 0.1047 | Tempo treino: 30571.37s
+
+
+Dataset: yeast | Abordagem: mycin | Lambda: 100.0 | Média final: 0.1300
+
+--- Tempo total: 255919.11s ---
+Resultados salvos em 'mistas/planilhas/yeast_100.0.xlsx'.

@@ -1,0 +1,23 @@
+
+=== Dataset: pima | Abordagem: mycin | Lambda: 1.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 216.4290714734735
+    Acurácia: 0.7792 | Tempo treino: 59091.29s
+  Fold 2/5...
+Epoch: [1] current error: 214.45248915303694
+    Acurácia: 0.7532 | Tempo treino: 36209.62s
+  Fold 3/5...
+Epoch: [1] current error: 215.03851728426363
+    Acurácia: 0.7792 | Tempo treino: 31575.03s
+  Fold 4/5...
+Epoch: [1] current error: 216.80116363580927
+    Acurácia: 0.7647 | Tempo treino: 37724.64s
+  Fold 5/5...
+Epoch: [1] current error: 214.71519195124523
+    Acurácia: 0.7320 | Tempo treino: 14016.32s
+
+
+Dataset: pima | Abordagem: mycin | Lambda: 1.0 | Média final: 0.7617
+
+--- Tempo total: 178618.01s ---
+Resultados salvos em 'mistas/planilhas/pima_1.0.xlsx'.

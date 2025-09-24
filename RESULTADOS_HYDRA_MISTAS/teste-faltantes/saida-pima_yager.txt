@@ -1,0 +1,23 @@
+
+=== Dataset: pima | Abordagem: yager ===
+  Fold 1/5...
+Epoch: [1] current error: 387.0843801847683
+    Acurácia: 0.7857 | Tempo treino: 41028.05s
+  Fold 2/5...
+Epoch: [1] current error: 388.9761847699906
+    Acurácia: 0.7662 | Tempo treino: 29558.43s
+  Fold 3/5...
+Epoch: [1] current error: 387.19173926637677
+    Acurácia: 0.8247 | Tempo treino: 32643.12s
+  Fold 4/5...
+Epoch: [1] current error: 391.7989370537018
+    Acurácia: 0.7647 | Tempo treino: 32794.30s
+  Fold 5/5...
+Epoch: [1] current error: 389.64693036211236
+    Acurácia: 0.7516 | Tempo treino: 28353.77s
+
+
+Dataset: pima | Abordagem: yager | Média final: 0.7786
+
+--- Tempo total: 164380.31s ---
+Resultados salvos em 'faltantes/planilhas/pima.xlsx'.

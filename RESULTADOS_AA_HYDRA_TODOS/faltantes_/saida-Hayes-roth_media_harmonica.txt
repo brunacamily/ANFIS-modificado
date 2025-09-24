@@ -1,0 +1,23 @@
+
+=== Dataset: hayes-roth | Abordagem: media_harmonica ===
+  Fold 1/5...
+Epoch: [1] current error: 108.07896339093693
+    Acurácia: 0.8519 | Tempo treino: 31.00s
+  Fold 2/5...
+Epoch: [1] current error: 112.20324674134079
+    Acurácia: 0.7037 | Tempo treino: 37.64s
+  Fold 3/5...
+Epoch: [1] current error: 111.75364690009664
+    Acurácia: 0.7308 | Tempo treino: 143.14s
+  Fold 4/5...
+Epoch: [1] current error: 112.0182261575722
+    Acurácia: 0.7308 | Tempo treino: 232.07s
+  Fold 5/5...
+Epoch: [1] current error: 109.84453619343242
+    Acurácia: 0.7308 | Tempo treino: 253.62s
+
+
+Dataset: hayes-roth | Abordagem: media_harmonica | Média final: 0.7496
+
+--- Tempo total: 699.26s ---
+Resultados salvos em 'faltantes/planilhas/hayes-roth.xlsx'.

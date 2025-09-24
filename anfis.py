@@ -180,7 +180,7 @@ class ANFIS:
 
 
 
-def forwardHalfPass(ANFISObj, Xs, lambda_param=0):
+def forwardHalfPass(ANFISObj, Xs, lambda_param=-1):
     layerFour = np.empty(0,)
     wSum = []
 
@@ -258,6 +258,34 @@ def forwardHalfPass(ANFISObj, Xs, lambda_param=0):
 
             elif option == "moda":
                 result = agregadores.moda(x)
+            elif option == "t_norma_AA":
+                result = agregadores.t_norma_AA(x, lambda_param)
+
+            # =========== mistas ===========
+
+            elif option == "mycin":
+                result = agregadores.mycin(x)
+
+            elif option == "prospector":
+                result = agregadores.prospector(x)
+            
+            elif option == "example_9_1":
+                result = agregadores.example_9_1(x)
+                
+            elif option == "example_9_5":
+                result = agregadores.example_9_5(x)
+
+            elif option == "example_9_9":
+                result = agregadores.example_9_9(x)
+
+            elif option == "example_10":
+                result = agregadores.example_10(x)
+            
+            elif option == "example_11":
+                result = agregadores.example_11(x)
+            
+            elif option == "example_12":
+                result = agregadores.example_12(x)
 
             # ========== antigas T-NORMAS ==========         
    

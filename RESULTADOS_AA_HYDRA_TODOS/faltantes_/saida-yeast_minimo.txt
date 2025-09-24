@@ -1,0 +1,23 @@
+
+=== Dataset: yeast | Abordagem: minimo ===
+  Fold 1/5...
+Epoch: [1] current error: 11730.19992410793
+    Acurácia: 0.3367 | Tempo treino: 75206.33s
+  Fold 2/5...
+Epoch: [1] current error: 11768.844740907172
+    Acurácia: 0.3030 | Tempo treino: 64164.61s
+  Fold 3/5...
+Epoch: [1] current error: 11770.253723472972
+    Acurácia: 0.3098 | Tempo treino: 41729.87s
+  Fold 4/5...
+Epoch: [1] current error: 11743.385402911324
+    Acurácia: 0.3199 | Tempo treino: 42559.97s
+  Fold 5/5...
+Epoch: [1] current error: 11816.545142343046
+    Acurácia: 0.3412 | Tempo treino: 40216.31s
+
+
+Dataset: yeast | Abordagem: minimo | Média final: 0.3221
+
+--- Tempo total: 263879.96s ---
+Resultados salvos em 'faltantes/planilhas/yeast.xlsx'.

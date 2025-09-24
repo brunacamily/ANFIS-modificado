@@ -1,0 +1,23 @@
+
+=== Dataset: glass | Abordagem: sugeno_weber | Lambda: 0.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 728.7397101129023
+    Acurácia: 0.4884 | Tempo treino: 43090.67s
+  Fold 2/5...
+Epoch: [1] current error: 747.9973591344319
+    Acurácia: 0.4186 | Tempo treino: 23535.45s
+  Fold 3/5...
+Epoch: [1] current error: 770.5784401363857
+    Acurácia: 0.5349 | Tempo treino: 39292.20s
+  Fold 4/5...
+Epoch: [1] current error: 758.8088609738272
+    Acurácia: 0.4419 | Tempo treino: 21455.27s
+  Fold 5/5...
+Epoch: [1] current error: 732.862693554966
+    Acurácia: 0.4762 | Tempo treino: 37486.18s
+
+
+Dataset: glass | Abordagem: sugeno_weber | Lambda: 0.0 | Média final: 0.4720
+
+--- Tempo total: 164860.91s ---
+Resultados salvos em 'faltantes/planilhas/glass_0.0.xlsx'.

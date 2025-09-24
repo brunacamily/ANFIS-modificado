@@ -1,0 +1,23 @@
+
+=== Dataset: pima | Abordagem: hamacher_prod ===
+  Fold 1/5...
+Epoch: [1] current error: 386.62410888975216
+    Acurácia: 0.7857 | Tempo treino: 40899.51s
+  Fold 2/5...
+Epoch: [1] current error: 388.542269390691
+    Acurácia: 0.7662 | Tempo treino: 37532.51s
+  Fold 3/5...
+Epoch: [1] current error: 386.7149781471199
+    Acurácia: 0.8312 | Tempo treino: 33077.41s
+  Fold 4/5...
+Epoch: [1] current error: 391.27726124001157
+    Acurácia: 0.7647 | Tempo treino: 34701.98s
+  Fold 5/5...
+Epoch: [1] current error: 389.1660241000612
+    Acurácia: 0.7516 | Tempo treino: 19989.97s
+
+
+Dataset: pima | Abordagem: hamacher_prod | Média final: 0.7799
+
+--- Tempo total: 166204.38s ---
+Resultados salvos em 'faltantes/planilhas/pima.xlsx'.

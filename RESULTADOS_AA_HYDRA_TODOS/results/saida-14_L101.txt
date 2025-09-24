@@ -1,0 +1,95 @@
+
+=== Dataset: titanic | Abordagem: t_norma_AA | Lambda: 101.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 1171.4475207211344
+    Acurácia: 0.7551 | Tempo treino: 1490.39s
+  Fold 2/5...
+Epoch: [1] current error: 1166.9215682593572
+    Acurácia: 0.7773 | Tempo treino: 1450.25s
+  Fold 3/5...
+Epoch: [1] current error: 1162.995410584898
+    Acurácia: 0.7977 | Tempo treino: 1585.80s
+  Fold 4/5...
+Epoch: [1] current error: 1165.817043097492
+    Acurácia: 0.7864 | Tempo treino: 1494.04s
+  Fold 5/5...
+Epoch: [1] current error: 1168.6843082669934
+    Acurácia: 0.7636 | Tempo treino: 1602.42s
+
+
+Dataset: titanic | Abordagem: t_norma_AA | Lambda: 101.0 | Média final: 0.7760
+
+--- Tempo total: 7627.12s ---
+Resultados salvos em 'AA/planilhas/titanic_101.0.xlsx'.
+
+=== Dataset: titanic | Abordagem: mycin | Lambda: 101.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: titanic | Abordagem: mycin | Lambda: 101.0 | Média final: 0.0000
+
+--- Tempo total: 1.15s ---
+Resultados salvos em 'AA/planilhas/titanic_101.0.xlsx'.
+
+=== Dataset: titanic | Abordagem: prospector | Lambda: 101.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: titanic | Abordagem: prospector | Lambda: 101.0 | Média final: 0.0000
+
+--- Tempo total: 0.88s ---
+Resultados salvos em 'AA/planilhas/titanic_101.0.xlsx'.
+
+=== Dataset: titanic | Abordagem: mycin | Lambda: 101.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: titanic | Abordagem: mycin | Lambda: 101.0 | Média final: 0.0000
+
+--- Tempo total: 0.65s ---
+Resultados salvos em 'mistas/planilhas/titanic_101.0.xlsx'.
+
+=== Dataset: titanic | Abordagem: prospector | Lambda: 101.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: titanic | Abordagem: prospector | Lambda: 101.0 | Média final: 0.0000
+
+--- Tempo total: 0.97s ---
+Resultados salvos em 'mistas/planilhas/titanic_101.0.xlsx'.

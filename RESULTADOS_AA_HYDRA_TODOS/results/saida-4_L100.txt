@@ -1,0 +1,95 @@
+
+=== Dataset: bupa | Abordagem: t_norma_AA | Lambda: 100.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 232.9702355329634
+    Acurácia: 0.6812 | Tempo treino: 6694.92s
+  Fold 2/5...
+Epoch: [1] current error: 234.05020599143361
+    Acurácia: 0.6087 | Tempo treino: 5176.15s
+  Fold 3/5...
+Epoch: [1] current error: 232.73494693754236
+    Acurácia: 0.7101 | Tempo treino: 3194.22s
+  Fold 4/5...
+Epoch: [1] current error: 231.90463619817552
+    Acurácia: 0.8261 | Tempo treino: 704.22s
+  Fold 5/5...
+Epoch: [1] current error: 232.40643569330447
+    Acurácia: 0.7246 | Tempo treino: 862.86s
+
+
+Dataset: bupa | Abordagem: t_norma_AA | Lambda: 100.0 | Média final: 0.7101
+
+--- Tempo total: 16633.53s ---
+Resultados salvos em 'AA/planilhas/bupa_100.0.xlsx'.
+
+=== Dataset: bupa | Abordagem: mycin | Lambda: 100.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: bupa | Abordagem: mycin | Lambda: 100.0 | Média final: 0.0000
+
+--- Tempo total: 0.32s ---
+Resultados salvos em 'AA/planilhas/bupa_100.0.xlsx'.
+
+=== Dataset: bupa | Abordagem: prospector | Lambda: 100.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: bupa | Abordagem: prospector | Lambda: 100.0 | Média final: 0.0000
+
+--- Tempo total: 0.30s ---
+Resultados salvos em 'AA/planilhas/bupa_100.0.xlsx'.
+
+=== Dataset: bupa | Abordagem: mycin | Lambda: 100.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: bupa | Abordagem: mycin | Lambda: 100.0 | Média final: 0.0000
+
+--- Tempo total: 0.40s ---
+Resultados salvos em 'mistas/planilhas/bupa_100.0.xlsx'.
+
+=== Dataset: bupa | Abordagem: prospector | Lambda: 100.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: bupa | Abordagem: prospector | Lambda: 100.0 | Média final: 0.0000
+
+--- Tempo total: 0.43s ---
+Resultados salvos em 'mistas/planilhas/bupa_100.0.xlsx'.

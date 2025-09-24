@@ -1,0 +1,95 @@
+
+=== Dataset: balance | Abordagem: t_norma_AA | Lambda: 0.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 596.1845448611688
+    Acurácia: 0.6640 | Tempo treino: 1412.81s
+  Fold 2/5...
+Epoch: [1] current error: 597.5710071608212
+    Acurácia: 0.6240 | Tempo treino: 1098.89s
+  Fold 3/5...
+Epoch: [1] current error: 594.6466230975778
+    Acurácia: 0.7600 | Tempo treino: 1247.63s
+  Fold 4/5...
+Epoch: [1] current error: 593.9247640201531
+    Acurácia: 0.6800 | Tempo treino: 1296.02s
+  Fold 5/5...
+Epoch: [1] current error: 591.1274496840165
+    Acurácia: 0.7040 | Tempo treino: 1216.58s
+
+
+Dataset: balance | Abordagem: t_norma_AA | Lambda: 0.0 | Média final: 0.6864
+
+--- Tempo total: 6274.73s ---
+Resultados salvos em 'AA/planilhas/balance_0.0.xlsx'.
+
+=== Dataset: balance | Abordagem: mycin | Lambda: 0.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: balance | Abordagem: mycin | Lambda: 0.0 | Média final: 0.0000
+
+--- Tempo total: 0.51s ---
+Resultados salvos em 'AA/planilhas/balance_0.0.xlsx'.
+
+=== Dataset: balance | Abordagem: prospector | Lambda: 0.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: balance | Abordagem: prospector | Lambda: 0.0 | Média final: 0.0000
+
+--- Tempo total: 0.31s ---
+Resultados salvos em 'AA/planilhas/balance_0.0.xlsx'.
+
+=== Dataset: balance | Abordagem: prospector | Lambda: 0.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: balance | Abordagem: prospector | Lambda: 0.0 | Média final: 0.0000
+
+--- Tempo total: 0.64s ---
+Resultados salvos em 'mistas/planilhas/balance_0.0.xlsx'.
+
+=== Dataset: balance | Abordagem: mycin | Lambda: 0.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: balance | Abordagem: mycin | Lambda: 0.0 | Média final: 0.0000
+
+--- Tempo total: 0.60s ---
+Resultados salvos em 'mistas/planilhas/balance_0.0.xlsx'.

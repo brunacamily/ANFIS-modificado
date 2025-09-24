@@ -1,0 +1,23 @@
+
+=== Dataset: pima | Abordagem: frank ===
+  Fold 1/5...
+Epoch: [1] current error: 386.7726661710247
+    Acurácia: 0.7857 | Tempo treino: 42450.57s
+  Fold 2/5...
+Epoch: [1] current error: 388.67642917877487
+    Acurácia: 0.7662 | Tempo treino: 32811.84s
+  Fold 3/5...
+Epoch: [1] current error: 386.86936312453736
+    Acurácia: 0.8312 | Tempo treino: 34574.94s
+  Fold 4/5...
+Epoch: [1] current error: 391.45985349728323
+    Acurácia: 0.7647 | Tempo treino: 34705.76s
+  Fold 5/5...
+Epoch: [1] current error: 389.32175933834003
+    Acurácia: 0.7582 | Tempo treino: 21129.15s
+
+
+Dataset: pima | Abordagem: frank | Média final: 0.7812
+
+--- Tempo total: 165675.62s ---
+Resultados salvos em 'faltantes/planilhas/pima.xlsx'.

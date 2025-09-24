@@ -1,0 +1,23 @@
+
+=== Dataset: newthyroid | Abordagem: prospector | Lambda: 100.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 98.89344404589676
+    Acurácia: 0.8372 | Tempo treino: 2663.56s
+  Fold 2/5...
+Epoch: [1] current error: 96.350584850899
+    Acurácia: 0.8837 | Tempo treino: 2478.64s
+  Fold 3/5...
+Epoch: [1] current error: 96.03130011839501
+    Acurácia: 0.8605 | Tempo treino: 3041.06s
+  Fold 4/5...
+Epoch: [1] current error: 92.87932739791958
+    Acurácia: 0.9302 | Tempo treino: 3108.97s
+  Fold 5/5...
+Epoch: [1] current error: 96.44611767911735
+    Acurácia: 0.9302 | Tempo treino: 3107.00s
+
+
+Dataset: newthyroid | Abordagem: prospector | Lambda: 100.0 | Média final: 0.8884
+
+--- Tempo total: 14405.46s ---
+Resultados salvos em 'mistas/planilhas/newthyroid_100.0.xlsx'.

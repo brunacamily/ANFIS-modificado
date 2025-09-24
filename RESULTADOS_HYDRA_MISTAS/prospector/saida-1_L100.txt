@@ -1,0 +1,23 @@
+
+=== Dataset: appendicitis | Abordagem: prospector | Lambda: 100.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 14.906993184387039
+    Acurácia: 0.9545 | Tempo treino: 9953.07s
+  Fold 2/5...
+Epoch: [1] current error: 14.997138711339709
+    Acurácia: 0.9048 | Tempo treino: 9442.88s
+  Fold 3/5...
+Epoch: [1] current error: 14.768101995061969
+    Acurácia: 0.9524 | Tempo treino: 6623.18s
+  Fold 4/5...
+Epoch: [1] current error: 14.539660863873356
+    Acurácia: 1.0000 | Tempo treino: 2772.91s
+  Fold 5/5...
+Epoch: [1] current error: 14.816742998550115
+    Acurácia: 0.9524 | Tempo treino: 1452.69s
+
+
+Dataset: appendicitis | Abordagem: prospector | Lambda: 100.0 | Média final: 0.9528
+
+--- Tempo total: 30246.66s ---
+Resultados salvos em 'mistas/planilhas/appendicitis_100.0.xlsx'.

@@ -1,0 +1,23 @@
+
+=== Dataset: iris | Abordagem: mycin | Lambda: 101.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 15.818683513038113
+    Acurácia: 0.9667 | Tempo treino: 360.32s
+  Fold 2/5...
+Epoch: [1] current error: 15.968905222322352
+    Acurácia: 0.9667 | Tempo treino: 468.86s
+  Fold 3/5...
+Epoch: [1] current error: 16.108162336822236
+    Acurácia: 1.0000 | Tempo treino: 524.10s
+  Fold 4/5...
+Epoch: [1] current error: 16.250871050760473
+    Acurácia: 0.9667 | Tempo treino: 548.81s
+  Fold 5/5...
+Epoch: [1] current error: 15.530571074899555
+    Acurácia: 1.0000 | Tempo treino: 514.56s
+
+
+Dataset: iris | Abordagem: mycin | Lambda: 101.0 | Média final: 0.9800
+
+--- Tempo total: 2420.96s ---
+Resultados salvos em 'mistas/planilhas/iris_101.0.xlsx'.

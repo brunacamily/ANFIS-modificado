@@ -1,0 +1,23 @@
+
+=== Dataset: bupa | Abordagem: prospector | Lambda: 0.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 186.52196150742162
+    Acurácia: 0.7826 | Tempo treino: 12551.99s
+  Fold 2/5...
+Epoch: [1] current error: 187.6555248191181
+    Acurácia: 0.7681 | Tempo treino: 10226.19s
+  Fold 3/5...
+Epoch: [1] current error: 186.74155487007542
+    Acurácia: 0.7826 | Tempo treino: 5664.78s
+  Fold 4/5...
+Epoch: [1] current error: 184.45949659515537
+    Acurácia: 0.8696 | Tempo treino: 1107.16s
+  Fold 5/5...
+Epoch: [1] current error: 186.19196046991317
+    Acurácia: 0.7971 | Tempo treino: 1648.76s
+
+
+Dataset: bupa | Abordagem: prospector | Lambda: 0.0 | Média final: 0.8000
+
+--- Tempo total: 31201.11s ---
+Resultados salvos em 'mistas/planilhas/bupa_0.0.xlsx'.

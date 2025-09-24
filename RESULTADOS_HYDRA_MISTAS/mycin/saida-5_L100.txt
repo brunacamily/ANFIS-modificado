@@ -1,0 +1,23 @@
+
+=== Dataset: ecoli | Abordagem: mycin | Lambda: 100.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 2011.3379430295477
+    Acurácia: 0.4412 | Tempo treino: 27803.71s
+  Fold 2/5...
+Epoch: [1] current error: 2007.2897922136933
+    Acurácia: 0.5373 | Tempo treino: 4658.24s
+  Fold 3/5...
+Epoch: [1] current error: 2034.3393209227256
+    Acurácia: 0.4030 | Tempo treino: 3619.88s
+  Fold 4/5...
+Epoch: [1] current error: 1977.0942168690717
+    Acurácia: 0.4925 | Tempo treino: 2344.98s
+  Fold 5/5...
+Epoch: [1] current error: 2047.8725960372908
+    Acurácia: 0.3582 | Tempo treino: 3313.46s
+
+
+Dataset: ecoli | Abordagem: mycin | Lambda: 100.0 | Média final: 0.4464
+
+--- Tempo total: 41741.18s ---
+Resultados salvos em 'mistas/planilhas/ecoli_100.0.xlsx'.

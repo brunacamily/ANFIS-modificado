@@ -1,0 +1,23 @@
+
+=== Dataset: appendicitis | Abordagem: example_9_5 ===
+  Fold 1/5...
+Epoch: [1] current error: 26.489900823967076
+    Acurácia: 0.9545 | Tempo treino: 10000.20s
+  Fold 2/5...
+Epoch: [1] current error: 26.818234034788855
+    Acurácia: 0.9048 | Tempo treino: 7413.07s
+  Fold 3/5...
+Epoch: [1] current error: 26.672547634284292
+    Acurácia: 0.9048 | Tempo treino: 3425.77s
+  Fold 4/5...
+Epoch: [1] current error: 26.329853618673326
+    Acurácia: 0.9048 | Tempo treino: 1123.53s
+  Fold 5/5...
+Epoch: [1] current error: 26.682690968352652
+    Acurácia: 0.9048 | Tempo treino: 1072.40s
+
+
+Dataset: appendicitis | Abordagem: example_9_5 | Média final: 0.9147
+
+--- Tempo total: 23036.53s ---
+Resultados salvos em 'faltantes/planilhas/appendicitis.xlsx'.

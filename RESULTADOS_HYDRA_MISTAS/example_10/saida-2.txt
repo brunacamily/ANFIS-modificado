@@ -1,0 +1,23 @@
+
+=== Dataset: balance | Abordagem: example_10 ===
+  Fold 1/5...
+Epoch: [1] current error: 570.5152286196326
+    Acurácia: 0.6560 | Tempo treino: 929.03s
+  Fold 2/5...
+Epoch: [1] current error: 570.8560721143663
+    Acurácia: 0.6240 | Tempo treino: 805.45s
+  Fold 3/5...
+Epoch: [1] current error: 569.0966094688251
+    Acurácia: 0.7600 | Tempo treino: 699.24s
+  Fold 4/5...
+Epoch: [1] current error: 565.5008958420995
+    Acurácia: 0.6880 | Tempo treino: 746.47s
+  Fold 5/5...
+Epoch: [1] current error: 565.4660481456488
+    Acurácia: 0.7040 | Tempo treino: 668.30s
+
+
+Dataset: balance | Abordagem: example_10 | Média final: 0.6864
+
+--- Tempo total: 3850.79s ---
+Resultados salvos em 'faltantes/planilhas/balance.xlsx'.

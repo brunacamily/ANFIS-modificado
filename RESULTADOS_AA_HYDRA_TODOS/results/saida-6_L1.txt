@@ -1,0 +1,95 @@
+
+=== Dataset: glass | Abordagem: t_norma_AA | Lambda: 1.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 749.1121332222974
+    Acurácia: 0.4884 | Tempo treino: 24654.93s
+  Fold 2/5...
+Epoch: [1] current error: 765.0548260722267
+    Acurácia: 0.4186 | Tempo treino: 17870.56s
+  Fold 3/5...
+Epoch: [1] current error: 788.3720333893364
+    Acurácia: 0.5349 | Tempo treino: 24041.18s
+  Fold 4/5...
+Epoch: [1] current error: 784.1501829788438
+    Acurácia: 0.4419 | Tempo treino: 17186.21s
+  Fold 5/5...
+Epoch: [1] current error: 752.9692544905126
+    Acurácia: 0.4048 | Tempo treino: 18973.88s
+
+
+Dataset: glass | Abordagem: t_norma_AA | Lambda: 1.0 | Média final: 0.4577
+
+--- Tempo total: 102727.43s ---
+Resultados salvos em 'AA/planilhas/glass_1.0.xlsx'.
+
+=== Dataset: glass | Abordagem: mycin | Lambda: 1.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: glass | Abordagem: mycin | Lambda: 1.0 | Média final: 0.0000
+
+--- Tempo total: 0.74s ---
+Resultados salvos em 'AA/planilhas/glass_1.0.xlsx'.
+
+=== Dataset: glass | Abordagem: prospector | Lambda: 1.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: glass | Abordagem: prospector | Lambda: 1.0 | Média final: 0.0000
+
+--- Tempo total: 0.47s ---
+Resultados salvos em 'AA/planilhas/glass_1.0.xlsx'.
+
+=== Dataset: glass | Abordagem: mycin | Lambda: 1.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: glass | Abordagem: mycin | Lambda: 1.0 | Média final: 0.0000
+
+--- Tempo total: 0.55s ---
+Resultados salvos em 'mistas/planilhas/glass_1.0.xlsx'.
+
+=== Dataset: glass | Abordagem: prospector | Lambda: 1.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: glass | Abordagem: prospector | Lambda: 1.0 | Média final: 0.0000
+
+--- Tempo total: 0.39s ---
+Resultados salvos em 'mistas/planilhas/glass_1.0.xlsx'.

@@ -1,0 +1,95 @@
+
+=== Dataset: pima | Abordagem: t_norma_AA | Lambda: 0.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 387.0843801847683
+    Acurácia: 0.7857 | Tempo treino: 30820.74s
+  Fold 2/5...
+Epoch: [1] current error: 388.9761847699906
+    Acurácia: 0.7662 | Tempo treino: 20680.57s
+  Fold 3/5...
+Epoch: [1] current error: 387.19173926637677
+    Acurácia: 0.8247 | Tempo treino: 20980.36s
+  Fold 4/5...
+Epoch: [1] current error: 391.7989370537018
+    Acurácia: 0.7647 | Tempo treino: 18200.96s
+  Fold 5/5...
+Epoch: [1] current error: 389.64693036211236
+    Acurácia: 0.7516 | Tempo treino: 17401.49s
+
+
+Dataset: pima | Abordagem: t_norma_AA | Lambda: 0.0 | Média final: 0.7786
+
+--- Tempo total: 108085.58s ---
+Resultados salvos em 'AA/planilhas/pima_0.0.xlsx'.
+
+=== Dataset: pima | Abordagem: mycin | Lambda: 0.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: pima | Abordagem: mycin | Lambda: 0.0 | Média final: 0.0000
+
+--- Tempo total: 0.88s ---
+Resultados salvos em 'AA/planilhas/pima_0.0.xlsx'.
+
+=== Dataset: pima | Abordagem: prospector | Lambda: 0.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: pima | Abordagem: prospector | Lambda: 0.0 | Média final: 0.0000
+
+--- Tempo total: 0.73s ---
+Resultados salvos em 'AA/planilhas/pima_0.0.xlsx'.
+
+=== Dataset: pima | Abordagem: mycin | Lambda: 0.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: pima | Abordagem: mycin | Lambda: 0.0 | Média final: 0.0000
+
+--- Tempo total: 0.82s ---
+Resultados salvos em 'mistas/planilhas/pima_0.0.xlsx'.
+
+=== Dataset: pima | Abordagem: prospector | Lambda: 0.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: pima | Abordagem: prospector | Lambda: 0.0 | Média final: 0.0000
+
+--- Tempo total: 0.52s ---
+Resultados salvos em 'mistas/planilhas/pima_0.0.xlsx'.

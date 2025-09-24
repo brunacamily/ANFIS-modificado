@@ -1,0 +1,23 @@
+
+=== Dataset: yeast | Abordagem: media_aritmetic ===
+  Fold 1/5...
+Epoch: [1] current error: 11340.814228359188
+    Acurácia: 0.3434 | Tempo treino: 81492.86s
+  Fold 2/5...
+Epoch: [1] current error: 11391.474551950034
+    Acurácia: 0.3165 | Tempo treino: 67351.40s
+  Fold 3/5...
+Epoch: [1] current error: 11385.803954576888
+    Acurácia: 0.3333 | Tempo treino: 44728.44s
+  Fold 4/5...
+Epoch: [1] current error: 11361.320727612678
+    Acurácia: 0.3367 | Tempo treino: 46695.24s
+  Fold 5/5...
+Epoch: [1] current error: 11432.393954426832
+    Acurácia: 0.3649 | Tempo treino: 26219.88s
+
+
+Dataset: yeast | Abordagem: media_aritmetic | Média final: 0.3390
+
+--- Tempo total: 266492.25s ---
+Resultados salvos em 'faltantes/planilhas/yeast.xlsx'.

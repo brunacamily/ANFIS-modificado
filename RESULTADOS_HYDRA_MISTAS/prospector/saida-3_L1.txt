@@ -1,0 +1,23 @@
+
+=== Dataset: banana | Abordagem: prospector | Lambda: 1.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 4164.159648887478
+    Acurácia: 0.5547 | Tempo treino: 2034.79s
+  Fold 2/5...
+Epoch: [1] current error: 4166.355388688065
+    Acurácia: 0.5594 | Tempo treino: 1599.42s
+  Fold 3/5...
+Epoch: [1] current error: 4166.827171007308
+    Acurácia: 0.5632 | Tempo treino: 2028.35s
+  Fold 4/5...
+Epoch: [1] current error: 4163.481198152647
+    Acurácia: 0.5689 | Tempo treino: 2415.52s
+  Fold 5/5...
+Epoch: [1] current error: 4165.172680737045
+    Acurácia: 0.5604 | Tempo treino: 2248.49s
+
+
+Dataset: banana | Abordagem: prospector | Lambda: 1.0 | Média final: 0.5613
+
+--- Tempo total: 10341.44s ---
+Resultados salvos em 'mistas/planilhas/banana_1.0.xlsx'.

@@ -1,0 +1,23 @@
+
+=== Dataset: yeast | Abordagem: frank | Lambda: 0.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 11730.19992410793
+    Acurácia: 0.3367 | Tempo treino: 77033.92s
+  Fold 2/5...
+Epoch: [1] current error: 11768.844740907172
+    Acurácia: 0.3030 | Tempo treino: 63866.99s
+  Fold 3/5...
+Epoch: [1] current error: 11770.253723472972
+    Acurácia: 0.3098 | Tempo treino: 41700.23s
+  Fold 4/5...
+Epoch: [1] current error: 11743.385402911324
+    Acurácia: 0.3199 | Tempo treino: 40578.36s
+  Fold 5/5...
+Epoch: [1] current error: 11816.545142343046
+    Acurácia: 0.3412 | Tempo treino: 40711.07s
+
+
+Dataset: yeast | Abordagem: frank | Lambda: 0.0 | Média final: 0.3221
+
+--- Tempo total: 263893.87s ---
+Resultados salvos em 'faltantes/planilhas/yeast_0.0.xlsx'.

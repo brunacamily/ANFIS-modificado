@@ -1,0 +1,23 @@
+
+=== Dataset: pima | Abordagem: sugeno_weber ===
+  Fold 1/5...
+Epoch: [1] current error: 379.4508694572254
+    Acurácia: 0.7922 | Tempo treino: 40963.56s
+  Fold 2/5...
+Epoch: [1] current error: 380.37630771435
+    Acurácia: 0.7792 | Tempo treino: 30731.46s
+  Fold 3/5...
+Epoch: [1] current error: 378.81763696033806
+    Acurácia: 0.8312 | Tempo treino: 31256.93s
+  Fold 4/5...
+Epoch: [1] current error: 382.84869329035445
+    Acurácia: 0.7582 | Tempo treino: 28721.81s
+  Fold 5/5...
+Epoch: [1] current error: 380.4499684485662
+    Acurácia: 0.7778 | Tempo treino: 31107.55s
+
+
+Dataset: pima | Abordagem: sugeno_weber | Média final: 0.7877
+
+--- Tempo total: 162782.10s ---
+Resultados salvos em 'faltantes/planilhas/pima.xlsx'.

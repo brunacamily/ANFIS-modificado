@@ -1,0 +1,23 @@
+
+=== Dataset: yeast | Abordagem: prospector | Lambda: 101.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 8311.277960032341
+    Acurácia: 0.4108 | Tempo treino: 83246.57s
+  Fold 2/5...
+Epoch: [1] current error: 8377.663717433277
+    Acurácia: 0.3737 | Tempo treino: 64531.94s
+  Fold 3/5...
+Epoch: [1] current error: 8376.98500842469
+    Acurácia: 0.4377 | Tempo treino: 38279.65s
+  Fold 4/5...
+Epoch: [1] current error: 8286.198039720362
+    Acurácia: 0.4007 | Tempo treino: 32386.72s
+  Fold 5/5...
+Epoch: [1] current error: 8433.322605361234
+    Acurácia: 0.4324 | Tempo treino: 34771.89s
+
+
+Dataset: yeast | Abordagem: prospector | Lambda: 101.0 | Média final: 0.4111
+
+--- Tempo total: 253218.07s ---
+Resultados salvos em 'mistas/planilhas/yeast_101.0.xlsx'.

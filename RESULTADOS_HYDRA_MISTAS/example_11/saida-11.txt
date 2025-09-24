@@ -1,0 +1,23 @@
+
+=== Dataset: newthyroid | Abordagem: example_11 ===
+  Fold 1/5...
+Epoch: [1] current error: 162.94842321664947
+    Acurácia: 0.7907 | Tempo treino: 937.35s
+  Fold 2/5...
+Epoch: [1] current error: 160.522053408759
+    Acurácia: 0.8372 | Tempo treino: 824.10s
+  Fold 3/5...
+Epoch: [1] current error: 160.3053657608654
+    Acurácia: 0.8372 | Tempo treino: 958.18s
+  Fold 4/5...
+Epoch: [1] current error: 157.83081879030732
+    Acurácia: 0.8372 | Tempo treino: 969.10s
+  Fold 5/5...
+Epoch: [1] current error: 160.9289745725519
+    Acurácia: 0.8140 | Tempo treino: 985.31s
+
+
+Dataset: newthyroid | Abordagem: example_11 | Média final: 0.8233
+
+--- Tempo total: 4675.32s ---
+Resultados salvos em 'faltantes/planilhas/newthyroid.xlsx'.

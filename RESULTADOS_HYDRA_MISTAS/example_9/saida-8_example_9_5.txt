@@ -1,0 +1,23 @@
+
+=== Dataset: hayes-roth | Abordagem: example_9_5 ===
+  Fold 1/5...
+Epoch: [1] current error: 68.72320206495259
+    Acurácia: 0.9630 | Tempo treino: 302.36s
+  Fold 2/5...
+Epoch: [1] current error: 69.68264078740447
+    Acurácia: 0.8148 | Tempo treino: 304.62s
+  Fold 3/5...
+Epoch: [1] current error: 70.26261718268992
+    Acurácia: 0.7308 | Tempo treino: 313.30s
+  Fold 4/5...
+Epoch: [1] current error: 70.3404715045793
+    Acurácia: 0.7692 | Tempo treino: 311.84s
+  Fold 5/5...
+Epoch: [1] current error: 68.66368763085515
+    Acurácia: 0.8846 | Tempo treino: 413.93s
+
+
+Dataset: hayes-roth | Abordagem: example_9_5 | Média final: 0.8325
+
+--- Tempo total: 1648.97s ---
+Resultados salvos em 'faltantes/planilhas/hayes-roth.xlsx'.

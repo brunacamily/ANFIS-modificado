@@ -1,0 +1,23 @@
+
+=== Dataset: haberman | Abordagem: example_10 ===
+  Fold 1/5...
+Epoch: [1] current error: 168.1900824910091
+    Acurácia: 0.7581 | Tempo treino: 73.68s
+  Fold 2/5...
+Epoch: [1] current error: 168.1728068091508
+    Acurácia: 0.7213 | Tempo treino: 125.06s
+  Fold 3/5...
+Epoch: [1] current error: 168.59495799736897
+    Acurácia: 0.7213 | Tempo treino: 136.15s
+  Fold 4/5...
+Epoch: [1] current error: 166.69214405468546
+    Acurácia: 0.8197 | Tempo treino: 139.62s
+  Fold 5/5...
+Epoch: [1] current error: 167.81834781884908
+    Acurácia: 0.7705 | Tempo treino: 133.60s
+
+
+Dataset: haberman | Abordagem: example_10 | Média final: 0.7582
+
+--- Tempo total: 610.02s ---
+Resultados salvos em 'faltantes/planilhas/haberman.xlsx'.

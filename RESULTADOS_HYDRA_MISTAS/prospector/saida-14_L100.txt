@@ -1,0 +1,23 @@
+
+=== Dataset: titanic | Abordagem: prospector | Lambda: 100.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 1203.5570554222113
+    Acurácia: 0.7551 | Tempo treino: 2799.57s
+  Fold 2/5...
+Epoch: [1] current error: 1198.4914279001446
+    Acurácia: 0.7773 | Tempo treino: 2386.21s
+  Fold 3/5...
+Epoch: [1] current error: 1194.4974438888073
+    Acurácia: 0.7977 | Tempo treino: 2956.09s
+  Fold 4/5...
+Epoch: [1] current error: 1197.2221130946323
+    Acurácia: 0.7864 | Tempo treino: 2903.45s
+  Fold 5/5...
+Epoch: [1] current error: 1201.130719727486
+    Acurácia: 0.7636 | Tempo treino: 2940.35s
+
+
+Dataset: titanic | Abordagem: prospector | Lambda: 100.0 | Média final: 0.7760
+
+--- Tempo total: 13996.13s ---
+Resultados salvos em 'mistas/planilhas/titanic_100.0.xlsx'.

@@ -1,0 +1,23 @@
+
+=== Dataset: haberman | Abordagem: prospector | Lambda: 1.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 173.7684997917445
+    Acurácia: 0.7419 | Tempo treino: 189.08s
+  Fold 2/5...
+Epoch: [1] current error: 173.9855988543401
+    Acurácia: 0.7049 | Tempo treino: 303.33s
+  Fold 3/5...
+Epoch: [1] current error: 173.81156312999474
+    Acurácia: 0.7213 | Tempo treino: 292.13s
+  Fold 4/5...
+Epoch: [1] current error: 172.28517664365998
+    Acurácia: 0.7705 | Tempo treino: 325.52s
+  Fold 5/5...
+Epoch: [1] current error: 173.34226172688136
+    Acurácia: 0.7869 | Tempo treino: 330.56s
+
+
+Dataset: haberman | Abordagem: prospector | Lambda: 1.0 | Média final: 0.7451
+
+--- Tempo total: 1443.90s ---
+Resultados salvos em 'mistas/planilhas/haberman_1.0.xlsx'.

@@ -1,0 +1,23 @@
+
+=== Dataset: bupa | Abordagem: example_9_1 ===
+  Fold 1/5...
+Epoch: [1] current error: 223.4395086765034
+    Acurácia: 0.6812 | Tempo treino: 11335.99s
+  Fold 2/5...
+Epoch: [1] current error: 224.18443405294732
+    Acurácia: 0.6522 | Tempo treino: 7267.35s
+  Fold 3/5...
+Epoch: [1] current error: 223.94635415800457
+    Acurácia: 0.7246 | Tempo treino: 2733.27s
+  Fold 4/5...
+Epoch: [1] current error: 222.0027996805914
+    Acurácia: 0.8261 | Tempo treino: 1087.93s
+  Fold 5/5...
+Epoch: [1] current error: 222.63197574328933
+    Acurácia: 0.7391 | Tempo treino: 1218.85s
+
+
+Dataset: bupa | Abordagem: example_9_1 | Média final: 0.7246
+
+--- Tempo total: 23645.93s ---
+Resultados salvos em 'faltantes/planilhas/bupa.xlsx'.

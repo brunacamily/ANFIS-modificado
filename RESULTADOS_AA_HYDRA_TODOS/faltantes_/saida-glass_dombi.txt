@@ -1,0 +1,23 @@
+
+=== Dataset: glass | Abordagem: dombi | Lambda: 0.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 752.4291490181555
+    Acurácia: 0.4884 | Tempo treino: 43106.38s
+  Fold 2/5...
+Epoch: [1] current error: 768.0093206988529
+    Acurácia: 0.4651 | Tempo treino: 21845.48s
+  Fold 3/5...
+Epoch: [1] current error: 792.2505302512076
+    Acurácia: 0.5349 | Tempo treino: 37942.24s
+  Fold 4/5...
+Epoch: [1] current error: 786.6660882222325
+    Acurácia: 0.4419 | Tempo treino: 21910.88s
+  Fold 5/5...
+Epoch: [1] current error: 756.1863812908159
+    Acurácia: 0.4048 | Tempo treino: 39687.35s
+
+
+Dataset: glass | Abordagem: dombi | Lambda: 0.0 | Média final: 0.4670
+
+--- Tempo total: 164492.98s ---
+Resultados salvos em 'faltantes/planilhas/glass_0.0.xlsx'.

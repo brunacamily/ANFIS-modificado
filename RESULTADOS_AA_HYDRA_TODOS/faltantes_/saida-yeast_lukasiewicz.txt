@@ -1,0 +1,23 @@
+
+=== Dataset: yeast | Abordagem: lukasiewicz ===
+  Fold 1/5...
+Epoch: [1] current error: 11292.77439685931
+    Acurácia: 0.3266 | Tempo treino: 75542.53s
+  Fold 2/5...
+Epoch: [1] current error: 11292.446881294
+    Acurácia: 0.3064 | Tempo treino: 62308.88s
+  Fold 3/5...
+Epoch: [1] current error: 11306.505722749504
+    Acurácia: 0.3333 | Tempo treino: 42103.96s
+  Fold 4/5...
+Epoch: [1] current error: 11216.75188066534
+    Acurácia: 0.3266 | Tempo treino: 39794.16s
+  Fold 5/5...
+Epoch: [1] current error: 11342.999466616508
+    Acurácia: 0.3581 | Tempo treino: 42701.43s
+
+
+Dataset: yeast | Abordagem: lukasiewicz | Média final: 0.3302
+
+--- Tempo total: 262452.62s ---
+Resultados salvos em 'faltantes/planilhas/yeast.xlsx'.

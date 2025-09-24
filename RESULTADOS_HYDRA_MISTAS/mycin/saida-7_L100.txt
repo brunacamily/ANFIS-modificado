@@ -1,0 +1,23 @@
+
+=== Dataset: haberman | Abordagem: mycin | Lambda: 100.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 155.25014043147434
+    Acurácia: 0.6935 | Tempo treino: 212.06s
+  Fold 2/5...
+Epoch: [1] current error: 156.51355546609815
+    Acurácia: 0.5738 | Tempo treino: 398.25s
+  Fold 3/5...
+Epoch: [1] current error: 154.03689630968572
+    Acurácia: 0.4754 | Tempo treino: 342.73s
+  Fold 4/5...
+Epoch: [1] current error: 153.80074581058705
+    Acurácia: 0.7213 | Tempo treino: 368.07s
+  Fold 5/5...
+Epoch: [1] current error: 154.64057441311033
+    Acurácia: 0.6393 | Tempo treino: 365.18s
+
+
+Dataset: haberman | Abordagem: mycin | Lambda: 100.0 | Média final: 0.6207
+
+--- Tempo total: 1690.60s ---
+Resultados salvos em 'mistas/planilhas/haberman_100.0.xlsx'.

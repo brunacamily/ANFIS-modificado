@@ -1,0 +1,23 @@
+
+=== Dataset: yeast | Abordagem: sugeno_weber | Lambda: 0.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 11292.77439685931
+    Acurácia: 0.3266 | Tempo treino: 82828.98s
+  Fold 2/5...
+Epoch: [1] current error: 11292.446881294
+    Acurácia: 0.3064 | Tempo treino: 69634.30s
+  Fold 3/5...
+Epoch: [1] current error: 11306.505722749504
+    Acurácia: 0.3333 | Tempo treino: 45561.23s
+  Fold 4/5...
+Epoch: [1] current error: 11216.75188066534
+    Acurácia: 0.3266 | Tempo treino: 45749.37s
+  Fold 5/5...
+Epoch: [1] current error: 11342.999466616508
+    Acurácia: 0.3581 | Tempo treino: 24232.31s
+
+
+Dataset: yeast | Abordagem: sugeno_weber | Lambda: 0.0 | Média final: 0.3302
+
+--- Tempo total: 268010.58s ---
+Resultados salvos em 'faltantes/planilhas/yeast_0.0.xlsx'.

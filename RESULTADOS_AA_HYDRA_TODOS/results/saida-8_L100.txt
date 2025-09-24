@@ -1,0 +1,95 @@
+
+=== Dataset: hayes-roth | Abordagem: t_norma_AA | Lambda: 100.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 109.36801508319428
+    Acurácia: 0.8519 | Tempo treino: 202.93s
+  Fold 2/5...
+Epoch: [1] current error: 113.66266857669451
+    Acurácia: 0.7037 | Tempo treino: 245.81s
+  Fold 3/5...
+Epoch: [1] current error: 113.23132828373294
+    Acurácia: 0.7308 | Tempo treino: 233.12s
+  Fold 4/5...
+Epoch: [1] current error: 113.44221439201227
+    Acurácia: 0.7308 | Tempo treino: 201.48s
+  Fold 5/5...
+Epoch: [1] current error: 111.2875668378584
+    Acurácia: 0.7308 | Tempo treino: 230.43s
+
+
+Dataset: hayes-roth | Abordagem: t_norma_AA | Lambda: 100.0 | Média final: 0.7496
+
+--- Tempo total: 1115.60s ---
+Resultados salvos em 'AA/planilhas/hayes-roth_100.0.xlsx'.
+
+=== Dataset: hayes-roth | Abordagem: prospector | Lambda: 100.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: hayes-roth | Abordagem: prospector | Lambda: 100.0 | Média final: 0.0000
+
+--- Tempo total: 0.23s ---
+Resultados salvos em 'AA/planilhas/hayes-roth_100.0.xlsx'.
+
+=== Dataset: hayes-roth | Abordagem: mycin | Lambda: 100.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: hayes-roth | Abordagem: mycin | Lambda: 100.0 | Média final: 0.0000
+
+--- Tempo total: 0.54s ---
+Resultados salvos em 'AA/planilhas/hayes-roth_100.0.xlsx'.
+
+=== Dataset: hayes-roth | Abordagem: mycin | Lambda: 100.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: mycin
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: mycin
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: mycin
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: mycin
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: mycin
+
+
+Dataset: hayes-roth | Abordagem: mycin | Lambda: 100.0 | Média final: 0.0000
+
+--- Tempo total: 0.38s ---
+Resultados salvos em 'mistas/planilhas/hayes-roth_100.0.xlsx'.
+
+=== Dataset: hayes-roth | Abordagem: prospector | Lambda: 100.0 ===
+  Fold 1/5...
+    Erro no fold 1: Operação não reconhecida: prospector
+  Fold 2/5...
+    Erro no fold 2: Operação não reconhecida: prospector
+  Fold 3/5...
+    Erro no fold 3: Operação não reconhecida: prospector
+  Fold 4/5...
+    Erro no fold 4: Operação não reconhecida: prospector
+  Fold 5/5...
+    Erro no fold 5: Operação não reconhecida: prospector
+
+
+Dataset: hayes-roth | Abordagem: prospector | Lambda: 100.0 | Média final: 0.0000
+
+--- Tempo total: 0.51s ---
+Resultados salvos em 'mistas/planilhas/hayes-roth_100.0.xlsx'.

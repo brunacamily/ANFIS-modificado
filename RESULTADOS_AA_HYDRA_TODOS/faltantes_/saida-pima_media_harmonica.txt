@@ -1,0 +1,23 @@
+
+=== Dataset: pima | Abordagem: media_harmonica ===
+  Fold 1/5...
+Epoch: [1] current error: 381.6541484015764
+    Acurácia: 0.7922 | Tempo treino: 53320.82s
+  Fold 2/5...
+Epoch: [1] current error: 383.79389549648505
+    Acurácia: 0.7727 | Tempo treino: 34692.80s
+  Fold 3/5...
+Epoch: [1] current error: 381.6422439825266
+    Acurácia: 0.8182 | Tempo treino: 31648.04s
+  Fold 4/5...
+Epoch: [1] current error: 385.95082661571263
+    Acurácia: 0.7647 | Tempo treino: 39637.28s
+  Fold 5/5...
+Epoch: [1] current error: 384.0124511474912
+    Acurácia: 0.7647 | Tempo treino: 13769.57s
+
+
+Dataset: pima | Abordagem: media_harmonica | Média final: 0.7825
+
+--- Tempo total: 173071.52s ---
+Resultados salvos em 'faltantes/planilhas/pima.xlsx'.

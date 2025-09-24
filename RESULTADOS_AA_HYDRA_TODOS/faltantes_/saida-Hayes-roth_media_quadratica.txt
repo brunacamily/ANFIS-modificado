@@ -1,0 +1,23 @@
+
+=== Dataset: hayes-roth | Abordagem: media_quadratica ===
+  Fold 1/5...
+Epoch: [1] current error: 93.6322503145825
+    Acurácia: 0.7778 | Tempo treino: 34.63s
+  Fold 2/5...
+Epoch: [1] current error: 97.4437898997005
+    Acurácia: 0.6296 | Tempo treino: 70.80s
+  Fold 3/5...
+Epoch: [1] current error: 96.10595692478124
+    Acurácia: 0.5769 | Tempo treino: 190.78s
+  Fold 4/5...
+Epoch: [1] current error: 95.50635727045557
+    Acurácia: 0.6538 | Tempo treino: 212.23s
+  Fold 5/5...
+Epoch: [1] current error: 94.21323172634564
+    Acurácia: 0.7308 | Tempo treino: 269.68s
+
+
+Dataset: hayes-roth | Abordagem: media_quadratica | Média final: 0.6738
+
+--- Tempo total: 779.98s ---
+Resultados salvos em 'faltantes/planilhas/hayes-roth.xlsx'.

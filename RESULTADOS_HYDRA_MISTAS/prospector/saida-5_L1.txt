@@ -1,0 +1,23 @@
+
+=== Dataset: ecoli | Abordagem: prospector | Lambda: 1.0 ===
+  Fold 1/5...
+Epoch: [1] current error: 1586.8612456318947
+    Acurácia: 0.5735 | Tempo treino: 26813.41s
+  Fold 2/5...
+Epoch: [1] current error: 1579.9961075088306
+    Acurácia: 0.5522 | Tempo treino: 4960.67s
+  Fold 3/5...
+Epoch: [1] current error: 1618.9678879865949
+    Acurácia: 0.4627 | Tempo treino: 4001.57s
+  Fold 4/5...
+Epoch: [1] current error: 1560.4911753379952
+    Acurácia: 0.5672 | Tempo treino: 3261.69s
+  Fold 5/5...
+Epoch: [1] current error: 1618.445447294354
+    Acurácia: 0.5522 | Tempo treino: 2649.65s
+
+
+Dataset: ecoli | Abordagem: prospector | Lambda: 1.0 | Média final: 0.5416
+
+--- Tempo total: 41688.14s ---
+Resultados salvos em 'mistas/planilhas/ecoli_1.0.xlsx'.
