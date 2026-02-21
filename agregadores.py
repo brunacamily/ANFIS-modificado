@@ -276,3 +276,4 @@ def example_12 (x):
         numerador = 2*result*valor * (result + valor - result*valor)
         result = numerador / (result + valor)
     return result
+
