@@ -36,3 +36,11 @@
 
 - O resultado de cada execução será salvo em arquivos `.txt` conforme definido nos scripts.
 - Para alterar agregador, dataset ou lambda, basta mudar os argumentoscl
+
+
+
+## Créditos
+
+Este projeto é uma extensão e automação do modelo ANFIS desenvolvido originalmente por [twmeggs](https://github.com/twmeggs). 
+
+O repositório base pode ser encontrado em: [twmeggs/anfis](https://github.com/twmeggs/anfis)
