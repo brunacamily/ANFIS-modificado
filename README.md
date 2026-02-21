@@ -35,7 +35,7 @@
 ## Observações
 
 - O resultado de cada execução será salvo em arquivos `.txt` conforme definido nos scripts.
-- Para alterar agregador, dataset ou lambda, basta mudar os argumentoscl
+- Para alterar agregador, dataset ou lambda, basta mudar os argumentos.
 
 
 
