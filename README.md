@@ -1,4 +1,4 @@
-# Como executar o ANFIS automatizado
+# Como executar o A2-ANFIS
 
 ## Execução rápida
 
